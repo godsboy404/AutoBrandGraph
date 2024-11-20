@@ -1,0 +1,8098 @@
+{
+    "AC Schnitzer": [
+        {
+            "series": "AC Schnitzer M3",
+            "count": 1
+        },
+        {
+            "series": "AC Schnitzer X5",
+            "count": 1
+        }
+    ],
+    "ALPINA": [
+        {
+            "series": "ALPINA B4",
+            "count": 1
+        }
+    ],
+    "阿尔法·罗密欧": [
+        {
+            "series": "Giulia",
+            "count": 10
+        },
+        {
+            "series": "Stelvio",
+            "count": 4
+        },
+        {
+            "series": "ALFA 156 (停售)",
+            "count": 1
+        },
+        {
+            "series": "ALFA GT (停售)",
+            "count": 1
+        }
+    ],
+    "阿斯顿·马丁": [
+        {
+            "series": "Rapide",
+            "count": 9
+        },
+        {
+            "series": "V8 Vantage",
+            "count": 17
+        },
+        {
+            "series": "V12 Vantage",
+            "count": 6
+        },
+        {
+            "series": "阿斯顿·马丁DB9",
+            "count": 16
+        },
+        {
+            "series": "Vanquish",
+            "count": 7
+        },
+        {
+            "series": "阿斯顿·马丁DB11",
+            "count": 10
+        },
+        {
+            "series": "阿斯顿·马丁DBS",
+            "count": 5
+        },
+        {
+            "series": "Virage",
+            "count": 2
+        },
+        {
+            "series": "拉共达Taraf (停售)",
+            "count": 1
+        },
+        {
+            "series": "V12 Zagato (停售)",
+            "count": 1
+        }
+    ],
+    "奥迪": [
+        {
+            "series": "奥迪A3",
+            "count": 80
+        },
+        {
+            "series": "奥迪A4L",
+            "count": 93
+        },
+        {
+            "series": "奥迪A6L",
+            "count": 108
+        },
+        {
+            "series": "奥迪A6L新能源",
+            "count": 1
+        },
+        {
+            "series": "奥迪Q2L",
+            "count": 6
+        },
+        {
+            "series": "奥迪Q3",
+            "count": 53
+        },
+        {
+            "series": "奥迪Q5L",
+            "count": 6
+        },
+        {
+            "series": "奥迪Q5",
+            "count": 46
+        },
+        {
+            "series": "奥迪A4 (停售)",
+            "count": 45
+        },
+        {
+            "series": "奥迪A6 (停售)",
+            "count": 12
+        },
+        {
+            "series": "奥迪RS 4",
+            "count": 1
+        },
+        {
+            "series": "奥迪RS 3",
+            "count": 1
+        },
+        {
+            "series": "奥迪RS 6",
+            "count": 2
+        },
+        {
+            "series": "奥迪RS 7",
+            "count": 3
+        },
+        {
+            "series": "奥迪R8",
+            "count": 12
+        },
+        {
+            "series": "奥迪TT RS",
+            "count": 1
+        },
+        {
+            "series": "奥迪RS 5",
+            "count": 3
+        },
+        {
+            "series": "奥迪A1",
+            "count": 19
+        },
+        {
+            "series": "奥迪A3(进口)",
+            "count": 22
+        },
+        {
+            "series": "奥迪A3新能源(进口)",
+            "count": 3
+        },
+        {
+            "series": "奥迪S3",
+            "count": 4
+        },
+        {
+            "series": "奥迪A4(进口)",
+            "count": 8
+        },
+        {
+            "series": "奥迪A5",
+            "count": 71
+        },
+        {
+            "series": "奥迪S4",
+            "count": 1
+        },
+        {
+            "series": "奥迪S5",
+            "count": 13
+        },
+        {
+            "series": "奥迪A6(进口)",
+            "count": 10
+        },
+        {
+            "series": "奥迪S6",
+            "count": 4
+        },
+        {
+            "series": "奥迪A7",
+            "count": 29
+        },
+        {
+            "series": "奥迪S7",
+            "count": 3
+        },
+        {
+            "series": "奥迪A8",
+            "count": 95
+        },
+        {
+            "series": "奥迪S8",
+            "count": 6
+        },
+        {
+            "series": "奥迪Q7",
+            "count": 72
+        },
+        {
+            "series": "奥迪Q7新能源",
+            "count": 1
+        },
+        {
+            "series": "奥迪TT",
+            "count": 38
+        },
+        {
+            "series": "奥迪TTS",
+            "count": 10
+        },
+        {
+            "series": "奥迪Q5(进口)",
+            "count": 8
+        },
+        {
+            "series": "奥迪SQ5",
+            "count": 2
+        },
+        {
+            "series": "奥迪Q3(进口)",
+            "count": 4
+        }
+    ],
+    "巴博斯": [
+        {
+            "series": "巴博斯 smart forfour",
+            "count": 1
+        },
+        {
+            "series": "巴博斯 smart fortwo",
+            "count": 6
+        },
+        {
+            "series": "巴博斯 SLK级",
+            "count": 1
+        },
+        {
+            "series": "巴博斯 CLS级",
+            "count": 1
+        },
+        {
+            "series": "巴博斯 S级",
+            "count": 6
+        },
+        {
+            "series": "巴博斯 M级",
+            "count": 1
+        }
+    ],
+    "宝骏": [
+        {
+            "series": "宝骏E100",
+            "count": 4
+        },
+        {
+            "series": "宝骏E200",
+            "count": 2
+        },
+        {
+            "series": "宝骏310",
+            "count": 10
+        },
+        {
+            "series": "宝骏310W",
+            "count": 6
+        },
+        {
+            "series": "宝骏510",
+            "count": 10
+        },
+        {
+            "series": "宝骏530",
+            "count": 8
+        },
+        {
+            "series": "宝骏360",
+            "count": 5
+        },
+        {
+            "series": "宝骏730",
+            "count": 37
+        },
+        {
+            "series": "宝骏560",
+            "count": 22
+        },
+        {
+            "series": "乐驰 (停售)",
+            "count": 41
+        },
+        {
+            "series": "宝骏330 (停售)",
+            "count": 2
+        },
+        {
+            "series": "宝骏610 (停售)",
+            "count": 8
+        },
+        {
+            "series": "宝骏630 (停售)",
+            "count": 31
+        }
+    ],
+    "宝马": [
+        {
+            "series": "宝马1系",
+            "count": 10
+        },
+        {
+            "series": "宝马2系旅行车",
+            "count": 9
+        },
+        {
+            "series": "宝马3系",
+            "count": 144
+        },
+        {
+            "series": "宝马5系",
+            "count": 119
+        },
+        {
+            "series": "宝马5系新能源",
+            "count": 4
+        },
+        {
+            "series": "宝马X1",
+            "count": 47
+        },
+        {
+            "series": "宝马X1新能源",
+            "count": 3
+        },
+        {
+            "series": "宝马X3",
+            "count": 6
+        },
+        {
+            "series": "宝马i3",
+            "count": 8
+        },
+        {
+            "series": "宝马1系(进口)",
+            "count": 37
+        },
+        {
+            "series": "宝马3系GT",
+            "count": 27
+        },
+        {
+            "series": "宝马4系",
+            "count": 67
+        },
+        {
+            "series": "宝马5系(进口)",
+            "count": 31
+        },
+        {
+            "series": "宝马6系",
+            "count": 37
+        },
+        {
+            "series": "宝马6系GT",
+            "count": 3
+        },
+        {
+            "series": "宝马7系",
+            "count": 67
+        },
+        {
+            "series": "宝马7系新能源",
+            "count": 5
+        },
+        {
+            "series": "宝马X2",
+            "count": 5
+        },
+        {
+            "series": "宝马X4",
+            "count": 10
+        },
+        {
+            "series": "宝马X5",
+            "count": 51
+        },
+        {
+            "series": "宝马X5新能源",
+            "count": 2
+        },
+        {
+            "series": "宝马X6",
+            "count": 28
+        },
+        {
+            "series": "宝马2系多功能旅行车",
+            "count": 4
+        },
+        {
+            "series": "宝马2系",
+            "count": 20
+        },
+        {
+            "series": "宝马i8",
+            "count": 3
+        },
+        {
+            "series": "宝马3系(进口)",
+            "count": 60
+        },
+        {
+            "series": "宝马X3(进口)",
+            "count": 32
+        },
+        {
+            "series": "宝马Z4",
+            "count": 22
+        },
+        {
+            "series": "宝马2系旅行车(进口)",
+            "count": 3
+        },
+        {
+            "series": "宝马X1(进口)",
+            "count": 6
+        },
+        {
+            "series": "宝马5系GT (停售)",
+            "count": 24
+        },
+        {
+            "series": "宝马M3",
+            "count": 14
+        },
+        {
+            "series": "宝马M4",
+            "count": 15
+        },
+        {
+            "series": "宝马M5",
+            "count": 5
+        },
+        {
+            "series": "宝马M6",
+            "count": 7
+        },
+        {
+            "series": "宝马X5 M",
+            "count": 3
+        },
+        {
+            "series": "宝马X6 M",
+            "count": 3
+        },
+        {
+            "series": "宝马M2",
+            "count": 3
+        },
+        {
+            "series": "宝马1系M (停售)",
+            "count": 1
+        }
+    ],
+    "宝沃": [
+        {
+            "series": "宝沃BX5",
+            "count": 24
+        },
+        {
+            "series": "宝沃BX6",
+            "count": 2
+        },
+        {
+            "series": "宝沃BX7",
+            "count": 29
+        },
+        {
+            "series": "宝沃BXi7",
+            "count": 2
+        }
+    ],
+    "保时捷": [
+        {
+            "series": "Panamera",
+            "count": 37
+        },
+        {
+            "series": "Panamera新能源",
+            "count": 6
+        },
+        {
+            "series": "Macan",
+            "count": 12
+        },
+        {
+            "series": "Cayenne",
+            "count": 33
+        },
+        {
+            "series": "保时捷718",
+            "count": 10
+        },
+        {
+            "series": "保时捷911",
+            "count": 108
+        },
+        {
+            "series": "Cayenne新能源",
+            "count": 2
+        },
+        {
+            "series": "918 Spyder (停售)",
+            "count": 2
+        },
+        {
+            "series": "Boxster (停售)",
+            "count": 14
+        },
+        {
+            "series": "Cayman (停售)",
+            "count": 13
+        }
+    ],
+    "北京": [
+        {
+            "series": "北京(BJ)20",
+            "count": 12
+        },
+        {
+            "series": "北京BJ40",
+            "count": 25
+        },
+        {
+            "series": "北京BJ80",
+            "count": 8
+        },
+        {
+            "series": "北京汽车E系列 (停售)",
+            "count": 17
+        }
+    ],
+    "北京清行": [
+        {
+            "series": "清行400",
+            "count": 2
+        }
+    ],
+    "北汽昌河": [
+        {
+            "series": "北斗星X5E",
+            "count": 2
+        },
+        {
+            "series": "昌河北斗星",
+            "count": 3
+        },
+        {
+            "series": "北汽昌河A6",
+            "count": 6
+        },
+        {
+            "series": "北汽昌河Q25",
+            "count": 9
+        },
+        {
+            "series": "北汽昌河Q35",
+            "count": 13
+        },
+        {
+            "series": "北汽昌河Q7",
+            "count": 10
+        },
+        {
+            "series": "北汽昌河M70",
+            "count": 5
+        },
+        {
+            "series": "北汽昌河M50",
+            "count": 28
+        },
+        {
+            "series": "福瑞达K21",
+            "count": 8
+        },
+        {
+            "series": "福瑞达K22",
+            "count": 8
+        },
+        {
+            "series": "爱迪尔 (停售)",
+            "count": 10
+        },
+        {
+            "series": "福瑞达 (停售)",
+            "count": 37
+        },
+        {
+            "series": "福运 (停售)",
+            "count": 2
+        }
+    ],
+    "北汽道达": [
+        {
+            "series": "道达V8",
+            "count": 3
+        }
+    ],
+    "北汽幻速": [
+        {
+            "series": "北汽幻速S2",
+            "count": 20
+        },
+        {
+            "series": "北汽幻速S3",
+            "count": 24
+        },
+        {
+            "series": "北汽幻速S5",
+            "count": 8
+        },
+        {
+            "series": "北汽幻速S6",
+            "count": 15
+        },
+        {
+            "series": "北汽幻速S7",
+            "count": 7
+        },
+        {
+            "series": "北汽幻速H3",
+            "count": 7
+        },
+        {
+            "series": "北汽幻速H5",
+            "count": 2
+        },
+        {
+            "series": "北汽幻速H2",
+            "count": 8
+        },
+        {
+            "series": "北汽幻速H2V",
+            "count": 2
+        },
+        {
+            "series": "北汽幻速H6",
+            "count": 6
+        }
+    ],
+    "北汽绅宝": [
+        {
+            "series": "绅宝智道",
+            "count": 1
+        },
+        {
+            "series": "绅宝D50",
+            "count": 25
+        },
+        {
+            "series": "绅宝D70",
+            "count": 11
+        },
+        {
+            "series": "绅宝X25",
+            "count": 7
+        },
+        {
+            "series": "绅宝X35",
+            "count": 6
+        },
+        {
+            "series": "绅宝X65",
+            "count": 6
+        },
+        {
+            "series": "绅宝智行",
+            "count": 6
+        },
+        {
+            "series": "绅宝X55",
+            "count": 8
+        },
+        {
+            "series": "绅宝D20 (停售)",
+            "count": 21
+        },
+        {
+            "series": "绅宝CC (停售)",
+            "count": 5
+        },
+        {
+            "series": "绅宝D60 (停售)",
+            "count": 5
+        },
+        {
+            "series": "绅宝D80 (停售)",
+            "count": 3
+        }
+    ],
+    "北汽威旺": [
+        {
+            "series": "北汽威旺S50",
+            "count": 12
+        },
+        {
+            "series": "北汽威旺M50F",
+            "count": 7
+        },
+        {
+            "series": "北汽威旺M60",
+            "count": 4
+        },
+        {
+            "series": "北汽威旺306",
+            "count": 38
+        },
+        {
+            "series": "北汽威旺M20",
+            "count": 23
+        },
+        {
+            "series": "北汽威旺M30",
+            "count": 9
+        },
+        {
+            "series": "北汽威旺307",
+            "count": 21
+        },
+        {
+            "series": "北汽威旺205 (停售)",
+            "count": 9
+        },
+        {
+            "series": "北汽威旺M35 (停售)",
+            "count": 4
+        },
+        {
+            "series": "北汽威旺T205-D (停售)",
+            "count": 3
+        },
+        {
+            "series": "北汽007 (停售)",
+            "count": 4
+        }
+    ],
+    "北汽新能源": [
+        {
+            "series": "EC系列",
+            "count": 6
+        },
+        {
+            "series": "EU系列",
+            "count": 10
+        },
+        {
+            "series": "EX系列",
+            "count": 7
+        },
+        {
+            "series": "EV系列",
+            "count": 11
+        },
+        {
+            "series": "EH系列",
+            "count": 2
+        },
+        {
+            "series": "北汽新能源ES210 (停售)",
+            "count": 1
+        }
+    ],
+    "北汽制造": [
+        {
+            "series": "战旗",
+            "count": 19
+        },
+        {
+            "series": "BJ 212",
+            "count": 12
+        },
+        {
+            "series": "北京BW007",
+            "count": 10
+        },
+        {
+            "series": "勇士",
+            "count": 16
+        },
+        {
+            "series": "陆霸",
+            "count": 3
+        },
+        {
+            "series": "越铃",
+            "count": 7
+        },
+        {
+            "series": "锐铃",
+            "count": 14
+        },
+        {
+            "series": "勇士皮卡",
+            "count": 13
+        },
+        {
+            "series": "战旗皮卡",
+            "count": 9
+        },
+        {
+            "series": "骑士S12 (停售)",
+            "count": 5
+        },
+        {
+            "series": "陆铃 (停售)",
+            "count": 1
+        }
+    ],
+    "奔驰": [
+        {
+            "series": "奔驰A级",
+            "count": 5
+        },
+        {
+            "series": "奔驰C级",
+            "count": 101
+        },
+        {
+            "series": "奔驰E级",
+            "count": 123
+        },
+        {
+            "series": "奔驰GLA",
+            "count": 21
+        },
+        {
+            "series": "奔驰GLC",
+            "count": 27
+        },
+        {
+            "series": "奔驰C级新能源 (停售)",
+            "count": 2
+        },
+        {
+            "series": "奔驰GLK级 (停售)",
+            "count": 15
+        },
+        {
+            "series": "奔驰V级",
+            "count": 11
+        },
+        {
+            "series": "威霆",
+            "count": 17
+        },
+        {
+            "series": "凌特",
+            "count": 14
+        },
+        {
+            "series": "唯雅诺 (停售)",
+            "count": 17
+        },
+        {
+            "series": "奔驰A级(进口)",
+            "count": 32
+        },
+        {
+            "series": "奔驰B级",
+            "count": 28
+        },
+        {
+            "series": "奔驰CLA级",
+            "count": 33
+        },
+        {
+            "series": "奔驰C级(进口)",
+            "count": 43
+        },
+        {
+            "series": "奔驰E级(进口)",
+            "count": 50
+        },
+        {
+            "series": "奔驰CLS级",
+            "count": 28
+        },
+        {
+            "series": "奔驰S级",
+            "count": 75
+        },
+        {
+            "series": "奔驰S级新能源",
+            "count": 2
+        },
+        {
+            "series": "奔驰GLC(进口)",
+            "count": 9
+        },
+        {
+            "series": "奔驰GLE",
+            "count": 31
+        },
+        {
+            "series": "奔驰G级",
+            "count": 12
+        },
+        {
+            "series": "奔驰GLS",
+            "count": 19
+        },
+        {
+            "series": "奔驰R级",
+            "count": 25
+        },
+        {
+            "series": "奔驰SLC级",
+            "count": 6
+        },
+        {
+            "series": "奔驰SL级",
+            "count": 16
+        },
+        {
+            "series": "奔驰GLE新能源",
+            "count": 2
+        },
+        {
+            "series": "奔驰GLA(进口)",
+            "count": 3
+        },
+        {
+            "series": "Sprinter",
+            "count": 1
+        },
+        {
+            "series": "威霆(进口)",
+            "count": 4
+        },
+        {
+            "series": "奔驰GLK级(进口) (停售)",
+            "count": 7
+        },
+        {
+            "series": "奔驰M级 (停售)",
+            "count": 25
+        },
+        {
+            "series": "奔驰GL级 (停售)",
+            "count": 13
+        },
+        {
+            "series": "唯雅诺(进口) (停售)",
+            "count": 6
+        },
+        {
+            "series": "奔驰CLK级 (停售)",
+            "count": 8
+        },
+        {
+            "series": "奔驰CL级 (停售)",
+            "count": 1
+        },
+        {
+            "series": "奔驰SLK级 (停售)",
+            "count": 19
+        },
+        {
+            "series": "奔驰A级AMG",
+            "count": 7
+        },
+        {
+            "series": "奔驰CLA级AMG",
+            "count": 6
+        },
+        {
+            "series": "奔驰C级AMG",
+            "count": 18
+        },
+        {
+            "series": "奔驰CLS级AMG",
+            "count": 5
+        },
+        {
+            "series": "奔驰E级AMG",
+            "count": 3
+        },
+        {
+            "series": "奔驰S级AMG",
+            "count": 11
+        },
+        {
+            "series": "奔驰GLA AMG",
+            "count": 5
+        },
+        {
+            "series": "奔驰GLC AMG",
+            "count": 8
+        },
+        {
+            "series": "奔驰GLE AMG",
+            "count": 6
+        },
+        {
+            "series": "奔驰G级AMG",
+            "count": 11
+        },
+        {
+            "series": "奔驰GLS AMG",
+            "count": 2
+        },
+        {
+            "series": "AMG GT",
+            "count": 7
+        },
+        {
+            "series": "奔驰SLK级AMG",
+            "count": 2
+        },
+        {
+            "series": "奔驰SL级AMG",
+            "count": 2
+        },
+        {
+            "series": "奔驰M级AMG (停售)",
+            "count": 5
+        },
+        {
+            "series": "奔驰GL级AMG (停售)",
+            "count": 2
+        },
+        {
+            "series": "奔驰SLS级AMG (停售)",
+            "count": 3
+        },
+        {
+            "series": "迈巴赫S级",
+            "count": 13
+        }
+    ],
+    "奔腾": [
+        {
+            "series": "奔腾T77",
+            "count": 7
+        },
+        {
+            "series": "奔腾B30",
+            "count": 17
+        },
+        {
+            "series": "奔腾B30EV",
+            "count": 2
+        },
+        {
+            "series": "奔腾B50",
+            "count": 44
+        },
+        {
+            "series": "奔腾B70",
+            "count": 67
+        },
+        {
+            "series": "奔腾B90",
+            "count": 23
+        },
+        {
+            "series": "奔腾X40",
+            "count": 28
+        },
+        {
+            "series": "奔腾X40新能源",
+            "count": 2
+        },
+        {
+            "series": "奔腾X80",
+            "count": 37
+        }
+    ],
+    "本田": [
+        {
+            "series": "杰德",
+            "count": 19
+        },
+        {
+            "series": "思域",
+            "count": 46
+        },
+        {
+            "series": "哥瑞",
+            "count": 5
+        },
+        {
+            "series": "竞瑞",
+            "count": 5
+        },
+        {
+            "series": "INSPIRE",
+            "count": 14
+        },
+        {
+            "series": "思铂睿",
+            "count": 23
+        },
+        {
+            "series": "本田XR-V",
+            "count": 10
+        },
+        {
+            "series": "本田CR-V",
+            "count": 71
+        },
+        {
+            "series": "本田UR-V",
+            "count": 5
+        },
+        {
+            "series": "艾力绅",
+            "count": 13
+        },
+        {
+            "series": "飞度",
+            "count": 40
+        },
+        {
+            "series": "锋范",
+            "count": 19
+        },
+        {
+            "series": "凌派",
+            "count": 24
+        },
+        {
+            "series": "雅阁",
+            "count": 106
+        },
+        {
+            "series": "缤智",
+            "count": 15
+        },
+        {
+            "series": "冠道",
+            "count": 9
+        },
+        {
+            "series": "奥德赛",
+            "count": 58
+        },
+        {
+            "series": "锋范经典 (停售)",
+            "count": 16
+        },
+        {
+            "series": "思迪 (停售)",
+            "count": 10
+        },
+        {
+            "series": "歌诗图 (停售)",
+            "count": 12
+        },
+        {
+            "series": "飞度(进口)",
+            "count": 1
+        },
+        {
+            "series": "INSIGHT",
+            "count": 1
+        },
+        {
+            "series": "里程",
+            "count": 1
+        },
+        {
+            "series": "本田CR-Z",
+            "count": 1
+        },
+        {
+            "series": "时韵 (停售)",
+            "count": 1
+        }
+    ],
+    "比速汽车": [
+        {
+            "series": "比速T3",
+            "count": 6
+        },
+        {
+            "series": "比速T5",
+            "count": 7
+        },
+        {
+            "series": "比速M3",
+            "count": 7
+        }
+    ],
+    "比亚迪": [
+        {
+            "series": "比亚迪F0",
+            "count": 24
+        },
+        {
+            "series": "比亚迪e5",
+            "count": 8
+        },
+        {
+            "series": "比亚迪F3",
+            "count": 55
+        },
+        {
+            "series": "秦",
+            "count": 18
+        },
+        {
+            "series": "秦Pro",
+            "count": 6
+        },
+        {
+            "series": "秦Pro新能源",
+            "count": 12
+        },
+        {
+            "series": "速锐",
+            "count": 36
+        },
+        {
+            "series": "元",
+            "count": 21
+        },
+        {
+            "series": "元新能源",
+            "count": 7
+        },
+        {
+            "series": "宋",
+            "count": 41
+        },
+        {
+            "series": "宋新能源",
+            "count": 15
+        },
+        {
+            "series": "比亚迪S7",
+            "count": 23
+        },
+        {
+            "series": "唐",
+            "count": 5
+        },
+        {
+            "series": "唐新能源",
+            "count": 12
+        },
+        {
+            "series": "比亚迪e6",
+            "count": 8
+        },
+        {
+            "series": "比亚迪M6",
+            "count": 19
+        },
+        {
+            "series": "宋MAX",
+            "count": 15
+        },
+        {
+            "series": "比亚迪G5",
+            "count": 6
+        },
+        {
+            "series": "比亚迪S6",
+            "count": 42
+        },
+        {
+            "series": "福莱尔 (停售)",
+            "count": 11
+        },
+        {
+            "series": "比亚迪F3R (停售)",
+            "count": 16
+        },
+        {
+            "series": "比亚迪F3新能源 (停售)",
+            "count": 2
+        },
+        {
+            "series": "比亚迪G3 (停售)",
+            "count": 15
+        },
+        {
+            "series": "比亚迪G3R (停售)",
+            "count": 2
+        },
+        {
+            "series": "比亚迪L3 (停售)",
+            "count": 18
+        },
+        {
+            "series": "比亚迪F6 (停售)",
+            "count": 21
+        },
+        {
+            "series": "比亚迪G6 (停售)",
+            "count": 16
+        },
+        {
+            "series": "思锐 (停售)",
+            "count": 7
+        },
+        {
+            "series": "比亚迪S8 (停售)",
+            "count": 4
+        }
+    ],
+    "标致": [
+        {
+            "series": "标致301",
+            "count": 17
+        },
+        {
+            "series": "标致308",
+            "count": 39
+        },
+        {
+            "series": "标致308S",
+            "count": 7
+        },
+        {
+            "series": "标致408",
+            "count": 60
+        },
+        {
+            "series": "标致2008",
+            "count": 22
+        },
+        {
+            "series": "标致3008",
+            "count": 33
+        },
+        {
+            "series": "标致4008",
+            "count": 18
+        },
+        {
+            "series": "标致5008",
+            "count": 16
+        },
+        {
+            "series": "标致508",
+            "count": 30
+        },
+        {
+            "series": "标致206 (停售)",
+            "count": 17
+        },
+        {
+            "series": "标致207 (停售)",
+            "count": 43
+        },
+        {
+            "series": "标致307 (停售)",
+            "count": 72
+        },
+        {
+            "series": "标致308(进口)",
+            "count": 11
+        },
+        {
+            "series": "标致3008(进口)",
+            "count": 2
+        },
+        {
+            "series": "标致RCZ",
+            "count": 6
+        },
+        {
+            "series": "标致206(进口) (停售)",
+            "count": 2
+        },
+        {
+            "series": "标致207(进口) (停售)",
+            "count": 7
+        },
+        {
+            "series": "标致307(进口) (停售)",
+            "count": 5
+        },
+        {
+            "series": "标致407 (停售)",
+            "count": 15
+        },
+        {
+            "series": "标致607 (停售)",
+            "count": 3
+        },
+        {
+            "series": "标致4008(进口) (停售)",
+            "count": 9
+        }
+    ],
+    "别克": [
+        {
+            "series": "VELITE 5",
+            "count": 2
+        },
+        {
+            "series": "凯越",
+            "count": 54
+        },
+        {
+            "series": "威朗",
+            "count": 36
+        },
+        {
+            "series": "英朗",
+            "count": 80
+        },
+        {
+            "series": "阅朗",
+            "count": 6
+        },
+        {
+            "series": "君威",
+            "count": 68
+        },
+        {
+            "series": "君越",
+            "count": 73
+        },
+        {
+            "series": "昂科拉",
+            "count": 29
+        },
+        {
+            "series": "昂科威",
+            "count": 33
+        },
+        {
+            "series": "别克GL6",
+            "count": 10
+        },
+        {
+            "series": "别克GL8",
+            "count": 46
+        },
+        {
+            "series": "林荫大道 (停售)",
+            "count": 13
+        },
+        {
+            "series": "荣御 (停售)",
+            "count": 4
+        },
+        {
+            "series": "昂科雷",
+            "count": 9
+        }
+    ],
+    "宾利": [
+        {
+            "series": "慕尚",
+            "count": 11
+        },
+        {
+            "series": "飞驰",
+            "count": 21
+        },
+        {
+            "series": "添越",
+            "count": 5
+        },
+        {
+            "series": "欧陆",
+            "count": 45
+        },
+        {
+            "series": "雅致 (停售)",
+            "count": 3
+        }
+    ],
+    "布加迪": [
+        {
+            "series": "威航",
+            "count": 3
+        }
+    ],
+    "长安": [
+        {
+            "series": "奔奔",
+            "count": 21
+        },
+        {
+            "series": "奔奔EV",
+            "count": 15
+        },
+        {
+            "series": "悦翔V3",
+            "count": 11
+        },
+        {
+            "series": "悦翔",
+            "count": 24
+        },
+        {
+            "series": "逸动",
+            "count": 67
+        },
+        {
+            "series": "逸动DT",
+            "count": 9
+        },
+        {
+            "series": "逸动XT",
+            "count": 50
+        },
+        {
+            "series": "逸动新能源",
+            "count": 17
+        },
+        {
+            "series": "睿骋",
+            "count": 35
+        },
+        {
+            "series": "睿骋CC",
+            "count": 10
+        },
+        {
+            "series": "长安CS15",
+            "count": 8
+        },
+        {
+            "series": "长安CS15EV",
+            "count": 4
+        },
+        {
+            "series": "长安CS35",
+            "count": 48
+        },
+        {
+            "series": "长安CS35 PLUS",
+            "count": 8
+        },
+        {
+            "series": "长安CS55",
+            "count": 17
+        },
+        {
+            "series": "长安CS75",
+            "count": 61
+        },
+        {
+            "series": "长安CS75 PHEV",
+            "count": 3
+        },
+        {
+            "series": "长安CS95",
+            "count": 11
+        },
+        {
+            "series": "凌轩",
+            "count": 9
+        },
+        {
+            "series": "奔奔i (停售)",
+            "count": 16
+        },
+        {
+            "series": "奔奔LOVE (停售)",
+            "count": 5
+        },
+        {
+            "series": "奔奔MINI (停售)",
+            "count": 17
+        },
+        {
+            "series": "长安CX20 (停售)",
+            "count": 12
+        },
+        {
+            "series": "悦翔V5 (停售)",
+            "count": 5
+        },
+        {
+            "series": "长安CX30 (停售)",
+            "count": 22
+        },
+        {
+            "series": "悦翔V7 (停售)",
+            "count": 34
+        },
+        {
+            "series": "志翔 (停售)",
+            "count": 7
+        },
+        {
+            "series": "杰勋 (停售)",
+            "count": 7
+        }
+    ],
+    "长安跨越": [
+        {
+            "series": "长安V3",
+            "count": 4
+        },
+        {
+            "series": "长安V5",
+            "count": 6
+        },
+        {
+            "series": "跨越王",
+            "count": 4
+        },
+        {
+            "series": "新豹MINI",
+            "count": 8
+        }
+    ],
+    "长安欧尚": [
+        {
+            "series": "欧尚长行",
+            "count": 1
+        },
+        {
+            "series": "欧尚长行EV",
+            "count": 1
+        },
+        {
+            "series": "奔奔mini-e",
+            "count": 2
+        },
+        {
+            "series": "欧力威EV",
+            "count": 2
+        },
+        {
+            "series": "欧尚X70A",
+            "count": 5
+        },
+        {
+            "series": "长安CX70",
+            "count": 23
+        },
+        {
+            "series": "欧尚",
+            "count": 16
+        },
+        {
+            "series": "欧尚A800",
+            "count": 23
+        },
+        {
+            "series": "欧尚EV",
+            "count": 1
+        },
+        {
+            "series": "长安之星3",
+            "count": 7
+        },
+        {
+            "series": "长安之星9",
+            "count": 3
+        },
+        {
+            "series": "长安之星9新能源",
+            "count": 2
+        },
+        {
+            "series": "欧诺",
+            "count": 25
+        },
+        {
+            "series": "欧诺新能源",
+            "count": 1
+        },
+        {
+            "series": "长安星卡",
+            "count": 19
+        },
+        {
+            "series": "长安星卡新能源",
+            "count": 2
+        },
+        {
+            "series": "欧力威 (停售)",
+            "count": 11
+        },
+        {
+            "series": "长安星光 (停售)",
+            "count": 7
+        },
+        {
+            "series": "长安之星 (停售)",
+            "count": 14
+        },
+        {
+            "series": "长安之星2 (停售)",
+            "count": 10
+        },
+        {
+            "series": "长安之星7 (停售)",
+            "count": 3
+        },
+        {
+            "series": "长安之星S460 (停售)",
+            "count": 6
+        },
+        {
+            "series": "金牛星 (停售)",
+            "count": 7
+        }
+    ],
+    "长安轻型车": [
+        {
+            "series": "睿行S50",
+            "count": 19
+        },
+        {
+            "series": "睿行S50T",
+            "count": 3
+        },
+        {
+            "series": "神骐T20",
+            "count": 85
+        },
+        {
+            "series": "睿行EM80",
+            "count": 2
+        },
+        {
+            "series": "睿行M70",
+            "count": 17
+        },
+        {
+            "series": "睿行M80",
+            "count": 33
+        },
+        {
+            "series": "睿行M90",
+            "count": 39
+        },
+        {
+            "series": "神骐F30",
+            "count": 37
+        },
+        {
+            "series": "长安星光4500 (停售)",
+            "count": 4
+        },
+        {
+            "series": "尊行 (停售)",
+            "count": 5
+        },
+        {
+            "series": "神骐F50 (停售)",
+            "count": 4
+        }
+    ],
+    "长城": [
+        {
+            "series": "长城C30新能源",
+            "count": 5
+        },
+        {
+            "series": "风骏5",
+            "count": 112
+        },
+        {
+            "series": "风骏6",
+            "count": 20
+        },
+        {
+            "series": "风骏3",
+            "count": 22
+        },
+        {
+            "series": "长城精灵 (停售)",
+            "count": 10
+        },
+        {
+            "series": "长城C20R (停售)",
+            "count": 4
+        },
+        {
+            "series": "长城M2 (停售)",
+            "count": 11
+        },
+        {
+            "series": "酷熊 (停售)",
+            "count": 6
+        },
+        {
+            "series": "凌傲 (停售)",
+            "count": 15
+        },
+        {
+            "series": "炫丽 (停售)",
+            "count": 27
+        },
+        {
+            "series": "长城C30 (停售)",
+            "count": 40
+        },
+        {
+            "series": "长城C50 (停售)",
+            "count": 14
+        },
+        {
+            "series": "长城M1 (停售)",
+            "count": 8
+        },
+        {
+            "series": "长城M4 (停售)",
+            "count": 10
+        },
+        {
+            "series": "赛弗 (停售)",
+            "count": 11
+        },
+        {
+            "series": "赛影 (停售)",
+            "count": 8
+        },
+        {
+            "series": "长城V80 (停售)",
+            "count": 24
+        },
+        {
+            "series": "嘉誉 (停售)",
+            "count": 17
+        },
+        {
+            "series": "金迪尔 (停售)",
+            "count": 7
+        }
+    ],
+    "成功汽车": [
+        {
+            "series": "成功V1",
+            "count": 7
+        },
+        {
+            "series": "成功V2",
+            "count": 10
+        },
+        {
+            "series": "成功V2E",
+            "count": 2
+        },
+        {
+            "series": "成功K1",
+            "count": 6
+        },
+        {
+            "series": "成功K2",
+            "count": 6
+        },
+        {
+            "series": "成功X1",
+            "count": 1
+        }
+    ],
+    "DS": [
+        {
+            "series": "DS 4S",
+            "count": 11
+        },
+        {
+            "series": "DS 5LS",
+            "count": 26
+        },
+        {
+            "series": "DS 5",
+            "count": 19
+        },
+        {
+            "series": "DS 6",
+            "count": 26
+        },
+        {
+            "series": "DS 7",
+            "count": 7
+        },
+        {
+            "series": "DS 3经典",
+            "count": 6
+        },
+        {
+            "series": "DS 4",
+            "count": 2
+        },
+        {
+            "series": "DS 5(进口)",
+            "count": 3
+        }
+    ],
+    "大乘汽车": [
+        {
+            "series": "大乘G70s",
+            "count": 4
+        }
+    ],
+    "大发": [
+        {
+            "series": "森雅 (停售)",
+            "count": 13
+        }
+    ],
+    "大众": [
+        {
+            "series": "途观L新能源",
+            "count": 2
+        },
+        {
+            "series": "Polo",
+            "count": 100
+        },
+        {
+            "series": "桑塔纳",
+            "count": 53
+        },
+        {
+            "series": "朗行",
+            "count": 29
+        },
+        {
+            "series": "朗逸",
+            "count": 80
+        },
+        {
+            "series": "凌渡",
+            "count": 24
+        },
+        {
+            "series": "帕萨特",
+            "count": 101
+        },
+        {
+            "series": "帕萨特新能源",
+            "count": 2
+        },
+        {
+            "series": "辉昂",
+            "count": 22
+        },
+        {
+            "series": "途观",
+            "count": 56
+        },
+        {
+            "series": "途岳",
+            "count": 10
+        },
+        {
+            "series": "途观L",
+            "count": 22
+        },
+        {
+            "series": "途昂",
+            "count": 9
+        },
+        {
+            "series": "途安",
+            "count": 71
+        },
+        {
+            "series": "朗境",
+            "count": 10
+        },
+        {
+            "series": "高尔 (停售)",
+            "count": 7
+        },
+        {
+            "series": "Passat领驭 (停售)",
+            "count": 26
+        },
+        {
+            "series": "桑塔纳经典 (停售)",
+            "count": 7
+        },
+        {
+            "series": "桑塔纳志俊 (停售)",
+            "count": 18
+        },
+        {
+            "series": "捷达",
+            "count": 57
+        },
+        {
+            "series": "宝来",
+            "count": 93
+        },
+        {
+            "series": "高尔夫",
+            "count": 95
+        },
+        {
+            "series": "速腾",
+            "count": 115
+        },
+        {
+            "series": "C-TREK蔚领",
+            "count": 16
+        },
+        {
+            "series": "高尔夫·嘉旅",
+            "count": 20
+        },
+        {
+            "series": "迈腾",
+            "count": 104
+        },
+        {
+            "series": "一汽-大众CC",
+            "count": 44
+        },
+        {
+            "series": "T-ROC探歌",
+            "count": 8
+        },
+        {
+            "series": "探岳",
+            "count": 10
+        },
+        {
+            "series": "宝来/宝来经典 (停售)",
+            "count": 37
+        },
+        {
+            "series": "开迪 (停售)",
+            "count": 6
+        },
+        {
+            "series": "甲壳虫",
+            "count": 59
+        },
+        {
+            "series": "高尔夫(进口)",
+            "count": 17
+        },
+        {
+            "series": "高尔夫新能源(进口)",
+            "count": 2
+        },
+        {
+            "series": "蔚揽",
+            "count": 16
+        },
+        {
+            "series": "Tiguan",
+            "count": 20
+        },
+        {
+            "series": "途锐",
+            "count": 59
+        },
+        {
+            "series": "夏朗",
+            "count": 36
+        },
+        {
+            "series": "迈特威",
+            "count": 27
+        },
+        {
+            "series": "凯路威",
+            "count": 20
+        },
+        {
+            "series": "尚酷",
+            "count": 19
+        },
+        {
+            "series": "大众up!",
+            "count": 3
+        },
+        {
+            "series": "Passat",
+            "count": 6
+        },
+        {
+            "series": "大众CC",
+            "count": 5
+        },
+        {
+            "series": "大众Eos",
+            "count": 6
+        },
+        {
+            "series": "大众e-up! (停售)",
+            "count": 1
+        },
+        {
+            "series": "迈腾(进口) (停售)",
+            "count": 7
+        },
+        {
+            "series": "辉腾 (停售)",
+            "count": 36
+        }
+    ],
+    "道奇": [
+        {
+            "series": "凯领 (停售)",
+            "count": 3
+        },
+        {
+            "series": "酷威",
+            "count": 10
+        },
+        {
+            "series": "锋哲",
+            "count": 2
+        },
+        {
+            "series": "道奇Ram",
+            "count": 3
+        },
+        {
+            "series": "酷搏 (停售)",
+            "count": 7
+        }
+    ],
+    "电咖": [
+        {
+            "series": "电咖·EV10",
+            "count": 6
+        }
+    ],
+    "东风": [
+        {
+            "series": "俊风ER30",
+            "count": 1
+        },
+        {
+            "series": "俊风E11K",
+            "count": 1
+        },
+        {
+            "series": "俊风E17",
+            "count": 1
+        },
+        {
+            "series": "御风S16",
+            "count": 6
+        },
+        {
+            "series": "御风",
+            "count": 80
+        },
+        {
+            "series": "御风EV",
+            "count": 4
+        },
+        {
+            "series": "东风皮卡",
+            "count": 36
+        },
+        {
+            "series": "虎视",
+            "count": 4
+        },
+        {
+            "series": "御风P16",
+            "count": 12
+        },
+        {
+            "series": "猛士",
+            "count": 1
+        },
+        {
+            "series": "俊风CV03 (停售)",
+            "count": 8
+        },
+        {
+            "series": "帅客",
+            "count": 44
+        },
+        {
+            "series": "帅客新能源",
+            "count": 2
+        },
+        {
+            "series": "俊风",
+            "count": 2
+        },
+        {
+            "series": "锐骐6",
+            "count": 12
+        },
+        {
+            "series": "锐骐多功能车",
+            "count": 19
+        },
+        {
+            "series": "锐骐皮卡",
+            "count": 86
+        },
+        {
+            "series": "奥丁 (停售)",
+            "count": 13
+        },
+        {
+            "series": "御轩 (停售)",
+            "count": 9
+        }
+    ],
+    "东风·瑞泰特": [
+        {
+            "series": "东风·瑞泰特EM10",
+            "count": 1
+        },
+        {
+            "series": "东风·瑞泰特EM30",
+            "count": 1
+        }
+    ],
+    "东风风度": [
+        {
+            "series": "东风风度MX5",
+            "count": 5
+        },
+        {
+            "series": "东风风度MX6",
+            "count": 16
+        }
+    ],
+    "东风风光": [
+        {
+            "series": "东风风光S560",
+            "count": 23
+        },
+        {
+            "series": "东风风光580",
+            "count": 19
+        },
+        {
+            "series": "东风风光ix5",
+            "count": 7
+        },
+        {
+            "series": "东风风光370",
+            "count": 26
+        },
+        {
+            "series": "东风风光330",
+            "count": 16
+        },
+        {
+            "series": "东风风光360 (停售)",
+            "count": 21
+        },
+        {
+            "series": "东风风光 (停售)",
+            "count": 5
+        },
+        {
+            "series": "东风风光350 (停售)",
+            "count": 1
+        }
+    ],
+    "东风风神": [
+        {
+            "series": "东风风神A60",
+            "count": 27
+        },
+        {
+            "series": "东风风神A30",
+            "count": 7
+        },
+        {
+            "series": "东风风神E70",
+            "count": 2
+        },
+        {
+            "series": "东风风神L60",
+            "count": 5
+        },
+        {
+            "series": "东风A9",
+            "count": 3
+        },
+        {
+            "series": "东风风神AX3",
+            "count": 12
+        },
+        {
+            "series": "东风风神AX4",
+            "count": 8
+        },
+        {
+            "series": "东风风神AX5",
+            "count": 9
+        },
+        {
+            "series": "东风风神AX7",
+            "count": 25
+        },
+        {
+            "series": "东风风神E30 (停售)",
+            "count": 3
+        },
+        {
+            "series": "东风风神H30 (停售)",
+            "count": 38
+        },
+        {
+            "series": "东风风神S30 (停售)",
+            "count": 35
+        }
+    ],
+    "东风风行": [
+        {
+            "series": "风行S50EV",
+            "count": 5
+        },
+        {
+            "series": "景逸S50",
+            "count": 24
+        },
+        {
+            "series": "风行SX6",
+            "count": 15
+        },
+        {
+            "series": "风行T5",
+            "count": 11
+        },
+        {
+            "series": "景逸X3",
+            "count": 12
+        },
+        {
+            "series": "景逸X5",
+            "count": 35
+        },
+        {
+            "series": "景逸X6",
+            "count": 8
+        },
+        {
+            "series": "风行CM7",
+            "count": 24
+        },
+        {
+            "series": "风行F600",
+            "count": 11
+        },
+        {
+            "series": "风行S500",
+            "count": 16
+        },
+        {
+            "series": "菱智",
+            "count": 249
+        },
+        {
+            "series": "菱智M5EV",
+            "count": 5
+        },
+        {
+            "series": "景逸 (停售)",
+            "count": 79
+        },
+        {
+            "series": "景逸SUV (停售)",
+            "count": 4
+        },
+        {
+            "series": "景逸XV (停售)",
+            "count": 4
+        }
+    ],
+    "东风小康": [
+        {
+            "series": "东风小康C36",
+            "count": 5
+        },
+        {
+            "series": "东风小康C37",
+            "count": 9
+        },
+        {
+            "series": "东风小康EC36",
+            "count": 1
+        },
+        {
+            "series": "东风小康K05S",
+            "count": 5
+        },
+        {
+            "series": "东风小康K07S",
+            "count": 19
+        },
+        {
+            "series": "东风小康C31",
+            "count": 14
+        },
+        {
+            "series": "东风小康C32",
+            "count": 14
+        },
+        {
+            "series": "东风小康K01",
+            "count": 17
+        },
+        {
+            "series": "东风小康K02",
+            "count": 14
+        },
+        {
+            "series": "东风小康C35 (停售)",
+            "count": 1
+        },
+        {
+            "series": "东风小康K07 (停售)",
+            "count": 8
+        },
+        {
+            "series": "东风小康K07II (停售)",
+            "count": 6
+        },
+        {
+            "series": "东风小康K17 (停售)",
+            "count": 4
+        },
+        {
+            "series": "东风小康V07S (停售)",
+            "count": 3
+        },
+        {
+            "series": "东风小康V27 (停售)",
+            "count": 7
+        },
+        {
+            "series": "东风小康V29 (停售)",
+            "count": 3
+        },
+        {
+            "series": "东风小康K06 (停售)",
+            "count": 2
+        },
+        {
+            "series": "东风小康V21 (停售)",
+            "count": 8
+        },
+        {
+            "series": "东风小康V22 (停售)",
+            "count": 8
+        }
+    ],
+    "东南": [
+        {
+            "series": "V3菱悦",
+            "count": 64
+        },
+        {
+            "series": "V5菱致",
+            "count": 47
+        },
+        {
+            "series": "东南DX3",
+            "count": 30
+        },
+        {
+            "series": "东南DX3新能源",
+            "count": 5
+        },
+        {
+            "series": "东南DX7",
+            "count": 55
+        },
+        {
+            "series": "V6菱仕 (停售)",
+            "count": 24
+        },
+        {
+            "series": "菱帅 (停售)",
+            "count": 14
+        },
+        {
+            "series": "希旺 (停售)",
+            "count": 7
+        },
+        {
+            "series": "得利卡 (停售)",
+            "count": 10
+        }
+    ],
+    "法拉利": [
+        {
+            "series": "California T",
+            "count": 3
+        },
+        {
+            "series": "F12berlinetta",
+            "count": 1
+        },
+        {
+            "series": "812 Superfast",
+            "count": 1
+        },
+        {
+            "series": "GTC4Lusso",
+            "count": 2
+        },
+        {
+            "series": "Portofino",
+            "count": 1
+        },
+        {
+            "series": "法拉利488",
+            "count": 3
+        },
+        {
+            "series": "LaFerrari",
+            "count": 1
+        },
+        {
+            "series": "法拉利458 (停售)",
+            "count": 4
+        },
+        {
+            "series": "法拉利599 (停售)",
+            "count": 1
+        },
+        {
+            "series": "法拉利FF (停售)",
+            "count": 1
+        },
+        {
+            "series": "法拉利360 (停售)",
+            "count": 2
+        },
+        {
+            "series": "法拉利575M (停售)",
+            "count": 1
+        },
+        {
+            "series": "法拉利612 (停售)",
+            "count": 1
+        },
+        {
+            "series": "法拉利F430 (停售)",
+            "count": 3
+        }
+    ],
+    "菲亚特": [
+        {
+            "series": "菲翔",
+            "count": 23
+        },
+        {
+            "series": "致悦",
+            "count": 12
+        },
+        {
+            "series": "派朗 (停售)",
+            "count": 2
+        },
+        {
+            "series": "派力奥 (停售)",
+            "count": 23
+        },
+        {
+            "series": "西耶那 (停售)",
+            "count": 12
+        },
+        {
+            "series": "周末风 (停售)",
+            "count": 10
+        },
+        {
+            "series": "菲亚特500",
+            "count": 8
+        },
+        {
+            "series": "菲跃",
+            "count": 5
+        },
+        {
+            "series": "朋多",
+            "count": 2
+        },
+        {
+            "series": "博悦",
+            "count": 10
+        },
+        {
+            "series": "领雅",
+            "count": 2
+        }
+    ],
+    "丰田": [
+        {
+            "series": "YARiS L 致享",
+            "count": 11
+        },
+        {
+            "series": "YARiS L 致炫",
+            "count": 26
+        },
+        {
+            "series": "雷凌",
+            "count": 45
+        },
+        {
+            "series": "凯美瑞",
+            "count": 94
+        },
+        {
+            "series": "丰田C-HR",
+            "count": 10
+        },
+        {
+            "series": "汉兰达",
+            "count": 62
+        },
+        {
+            "series": "逸致",
+            "count": 20
+        },
+        {
+            "series": "雅力士 (停售)",
+            "count": 18
+        },
+        {
+            "series": "威驰",
+            "count": 77
+        },
+        {
+            "series": "威驰FS",
+            "count": 8
+        },
+        {
+            "series": "卡罗拉",
+            "count": 103
+        },
+        {
+            "series": "皇冠",
+            "count": 57
+        },
+        {
+            "series": "奕泽IZOA",
+            "count": 3
+        },
+        {
+            "series": "RAV4荣放",
+            "count": 62
+        },
+        {
+            "series": "普拉多",
+            "count": 37
+        },
+        {
+            "series": "柯斯达",
+            "count": 23
+        },
+        {
+            "series": "花冠 (停售)",
+            "count": 36
+        },
+        {
+            "series": "普锐斯 (停售)",
+            "count": 6
+        },
+        {
+            "series": "锐志 (停售)",
+            "count": 32
+        },
+        {
+            "series": "特锐 (停售)",
+            "count": 7
+        },
+        {
+            "series": "兰德酷路泽 (停售)",
+            "count": 22
+        },
+        {
+            "series": "埃尔法",
+            "count": 11
+        },
+        {
+            "series": "普瑞维亚",
+            "count": 7
+        },
+        {
+            "series": "HIACE",
+            "count": 5
+        },
+        {
+            "series": "凯美瑞(海外)",
+            "count": 3
+        },
+        {
+            "series": "丰田RAV4(进口)",
+            "count": 5
+        },
+        {
+            "series": "FJ 酷路泽",
+            "count": 4
+        },
+        {
+            "series": "Fortuner",
+            "count": 2
+        },
+        {
+            "series": "汉兰达(进口)",
+            "count": 6
+        },
+        {
+            "series": "兰德酷路泽(进口)",
+            "count": 4
+        },
+        {
+            "series": "普拉多(进口)",
+            "count": 9
+        },
+        {
+            "series": "红杉",
+            "count": 2
+        },
+        {
+            "series": "Sienna",
+            "count": 8
+        },
+        {
+            "series": "丰田86",
+            "count": 8
+        },
+        {
+            "series": "坦途",
+            "count": 1
+        },
+        {
+            "series": "威飒 (停售)",
+            "count": 4
+        },
+        {
+            "series": "杰路驰 (停售)",
+            "count": 3
+        }
+    ],
+    "福迪": [
+        {
+            "series": "揽福",
+            "count": 29
+        },
+        {
+            "series": "雄师F16",
+            "count": 19
+        },
+        {
+            "series": "雄师F22",
+            "count": 35
+        },
+        {
+            "series": "探索者Ⅱ (停售)",
+            "count": 1
+        },
+        {
+            "series": "探索者Ⅲ (停售)",
+            "count": 3
+        },
+        {
+            "series": "探索者6 (停售)",
+            "count": 2
+        },
+        {
+            "series": "小超人 (停售)",
+            "count": 5
+        },
+        {
+            "series": "雄狮 (停售)",
+            "count": 2
+        }
+    ],
+    "福汽启腾": [
+        {
+            "series": "启腾V60",
+            "count": 3
+        },
+        {
+            "series": "启腾EX80",
+            "count": 10
+        },
+        {
+            "series": "启腾M70",
+            "count": 7
+        },
+        {
+            "series": "启腾M70EV",
+            "count": 2
+        }
+    ],
+    "福特": [
+        {
+            "series": "福克斯",
+            "count": 133
+        },
+        {
+            "series": "福睿斯",
+            "count": 15
+        },
+        {
+            "series": "金牛座",
+            "count": 22
+        },
+        {
+            "series": "蒙迪欧",
+            "count": 49
+        },
+        {
+            "series": "蒙迪欧新能源",
+            "count": 6
+        },
+        {
+            "series": "翼搏",
+            "count": 22
+        },
+        {
+            "series": "翼虎",
+            "count": 39
+        },
+        {
+            "series": "锐界",
+            "count": 31
+        },
+        {
+            "series": "嘉年华 (停售)",
+            "count": 55
+        },
+        {
+            "series": "蒙迪欧-致胜 (停售)",
+            "count": 21
+        },
+        {
+            "series": "致胜 (停售)",
+            "count": 2
+        },
+        {
+            "series": "麦柯斯 (停售)",
+            "count": 9
+        },
+        {
+            "series": "撼路者",
+            "count": 18
+        },
+        {
+            "series": "途睿欧",
+            "count": 6
+        },
+        {
+            "series": "全顺",
+            "count": 21
+        },
+        {
+            "series": "新世代全顺",
+            "count": 84
+        },
+        {
+            "series": "经典全顺 (停售)",
+            "count": 107
+        },
+        {
+            "series": "福特GT",
+            "count": 2
+        },
+        {
+            "series": "福克斯(进口)",
+            "count": 10
+        },
+        {
+            "series": "探险者",
+            "count": 19
+        },
+        {
+            "series": "Mustang",
+            "count": 33
+        },
+        {
+            "series": "Ranger",
+            "count": 1
+        },
+        {
+            "series": "福特F-150",
+            "count": 7
+        },
+        {
+            "series": "嘉年华(进口)",
+            "count": 1
+        },
+        {
+            "series": "Kuga",
+            "count": 2
+        },
+        {
+            "series": "锐界(进口)",
+            "count": 10
+        },
+        {
+            "series": "征服者",
+            "count": 1
+        },
+        {
+            "series": "福特E350",
+            "count": 4
+        }
+    ],
+    "福田": [
+        {
+            "series": "风景V3",
+            "count": 15
+        },
+        {
+            "series": "风景V5",
+            "count": 17
+        },
+        {
+            "series": "祥菱M",
+            "count": 20
+        },
+        {
+            "series": "祥菱V",
+            "count": 18
+        },
+        {
+            "series": "风景G7",
+            "count": 51
+        },
+        {
+            "series": "风景G9",
+            "count": 18
+        },
+        {
+            "series": "福田风景",
+            "count": 182
+        },
+        {
+            "series": "蒙派克E",
+            "count": 77
+        },
+        {
+            "series": "蒙派克S",
+            "count": 11
+        },
+        {
+            "series": "图雅诺",
+            "count": 28
+        },
+        {
+            "series": "图雅诺EV",
+            "count": 1
+        },
+        {
+            "series": "萨普",
+            "count": 44
+        },
+        {
+            "series": "迷迪 (停售)",
+            "count": 40
+        }
+    ],
+    "福田乘用车": [
+        {
+            "series": "伽途GT",
+            "count": 4
+        },
+        {
+            "series": "萨瓦纳",
+            "count": 131
+        },
+        {
+            "series": "伽途im6",
+            "count": 5
+        },
+        {
+            "series": "伽途im8",
+            "count": 6
+        },
+        {
+            "series": "伽途ix5",
+            "count": 8
+        },
+        {
+            "series": "伽途ix7",
+            "count": 7
+        },
+        {
+            "series": "拓陆者",
+            "count": 257
+        },
+        {
+            "series": "伽途GT",
+            "count": 4
+        },
+        {
+            "series": "萨瓦纳",
+            "count": 131
+        },
+        {
+            "series": "伽途im6",
+            "count": 5
+        },
+        {
+            "series": "伽途im8",
+            "count": 6
+        },
+        {
+            "series": "伽途ix5",
+            "count": 8
+        },
+        {
+            "series": "伽途ix7",
+            "count": 7
+        },
+        {
+            "series": "拓陆者",
+            "count": 257
+        }
+    ],
+    "GMC": [
+        {
+            "series": "YUKON",
+            "count": 12
+        },
+        {
+            "series": "SAVANA",
+            "count": 83
+        },
+        {
+            "series": "SIERRA",
+            "count": 9
+        },
+        {
+            "series": "TERRAIN",
+            "count": 1
+        }
+    ],
+    "观致": [
+        {
+            "series": "观致3",
+            "count": 77
+        },
+        {
+            "series": "观致5",
+            "count": 19
+        }
+    ],
+    "光冈": [
+        {
+            "series": "女王",
+            "count": 1
+        },
+        {
+            "series": "大蛇 (停售)",
+            "count": 1
+        },
+        {
+            "series": "嘉路 (停售)",
+            "count": 1
+        }
+    ],
+    "广汽传祺": [
+        {
+            "series": "传祺GA4",
+            "count": 8
+        },
+        {
+            "series": "传祺GA6",
+            "count": 15
+        },
+        {
+            "series": "传祺GA8",
+            "count": 13
+        },
+        {
+            "series": "传祺GS3",
+            "count": 8
+        },
+        {
+            "series": "传祺GS4",
+            "count": 46
+        },
+        {
+            "series": "传祺GS5",
+            "count": 32
+        },
+        {
+            "series": "传祺GS7",
+            "count": 5
+        },
+        {
+            "series": "传祺GS8",
+            "count": 6
+        },
+        {
+            "series": "传祺GM8",
+            "count": 4
+        },
+        {
+            "series": "传祺GA3 (停售)",
+            "count": 10
+        },
+        {
+            "series": "传祺GA3S视界 (停售)",
+            "count": 10
+        },
+        {
+            "series": "传祺GA5 (停售)",
+            "count": 32
+        },
+        {
+            "series": "传祺GA5新能源 (停售)",
+            "count": 4
+        },
+        {
+            "series": "传祺GS5 Super (停售)",
+            "count": 27
+        }
+    ],
+    "广汽吉奥": [
+        {
+            "series": "星旺",
+            "count": 8
+        },
+        {
+            "series": "星旺CL",
+            "count": 9
+        },
+        {
+            "series": "星旺L",
+            "count": 2
+        },
+        {
+            "series": "星旺M1",
+            "count": 2
+        },
+        {
+            "series": "星旺M2",
+            "count": 2
+        },
+        {
+            "series": "财运100",
+            "count": 32
+        },
+        {
+            "series": "财运300",
+            "count": 8
+        },
+        {
+            "series": "财运500",
+            "count": 7
+        },
+        {
+            "series": "广汽吉奥GP150",
+            "count": 12
+        },
+        {
+            "series": "E美 (停售)",
+            "count": 3
+        },
+        {
+            "series": "奥轩G3 (停售)",
+            "count": 3
+        },
+        {
+            "series": "吉奥凯旋 (停售)",
+            "count": 1
+        },
+        {
+            "series": "凯睿 (停售)",
+            "count": 3
+        },
+        {
+            "series": "帅豹 (停售)",
+            "count": 4
+        },
+        {
+            "series": "帅威 (停售)",
+            "count": 2
+        },
+        {
+            "series": "奥轩G5 (停售)",
+            "count": 24
+        },
+        {
+            "series": "奥轩GX5 (停售)",
+            "count": 14
+        },
+        {
+            "series": "广汽吉奥GX6 (停售)",
+            "count": 4
+        },
+        {
+            "series": "帅驰 (停售)",
+            "count": 2
+        },
+        {
+            "series": "帅舰 (停售)",
+            "count": 5
+        },
+        {
+            "series": "星朗 (停售)",
+            "count": 15
+        }
+    ],
+    "广汽集团": [
+        {
+            "series": "广汽ix4",
+            "count": 2
+        },
+        {
+            "series": "祺智EV",
+            "count": 2
+        },
+        {
+            "series": "祺智PHEV",
+            "count": 4
+        }
+    ],
+    "广汽新能源": [
+        {
+            "series": "传祺GA3S PHEV",
+            "count": 2
+        },
+        {
+            "series": "传祺GE3",
+            "count": 7
+        },
+        {
+            "series": "传祺GS4新能源",
+            "count": 4
+        }
+    ],
+    "国金汽车": [
+        {
+            "series": "国金GM3",
+            "count": 7
+        }
+    ],
+    "哈飞": [
+        {
+            "series": "哈飞小霸王",
+            "count": 4
+        },
+        {
+            "series": "骏意",
+            "count": 6
+        },
+        {
+            "series": "民意",
+            "count": 8
+        },
+        {
+            "series": "中意V5",
+            "count": 2
+        },
+        {
+            "series": "民意微卡",
+            "count": 2
+        },
+        {
+            "series": "路宝 (停售)",
+            "count": 28
+        },
+        {
+            "series": "赛马 (停售)",
+            "count": 10
+        },
+        {
+            "series": "赛豹III (停售)",
+            "count": 6
+        },
+        {
+            "series": "赛豹V (停售)",
+            "count": 4
+        },
+        {
+            "series": "路尊大霸王 (停售)",
+            "count": 5
+        }
+    ],
+    "哈弗": [
+        {
+            "series": "哈弗F7",
+            "count": 2
+        },
+        {
+            "series": "哈弗H1",
+            "count": 38
+        },
+        {
+            "series": "哈弗H2",
+            "count": 56
+        },
+        {
+            "series": "哈弗H2s",
+            "count": 26
+        },
+        {
+            "series": "哈弗F5",
+            "count": 4
+        },
+        {
+            "series": "哈弗H4",
+            "count": 4
+        },
+        {
+            "series": "哈弗H5",
+            "count": 115
+        },
+        {
+            "series": "哈弗H6",
+            "count": 154
+        },
+        {
+            "series": "哈弗H6 Coupe",
+            "count": 47
+        },
+        {
+            "series": "哈弗M6",
+            "count": 13
+        },
+        {
+            "series": "哈弗H7",
+            "count": 15
+        },
+        {
+            "series": "哈弗H8",
+            "count": 20
+        },
+        {
+            "series": "哈弗H9",
+            "count": 23
+        },
+        {
+            "series": "哈弗H3 (停售)",
+            "count": 66
+        }
+    ],
+    "海格": [
+        {
+            "series": "海格H4E",
+            "count": 3
+        },
+        {
+            "series": "海格H5C",
+            "count": 9
+        },
+        {
+            "series": "海格H5V",
+            "count": 6
+        },
+        {
+            "series": "海格H6C",
+            "count": 4
+        },
+        {
+            "series": "海格H6V",
+            "count": 1
+        },
+        {
+            "series": "海格H7V",
+            "count": 1
+        },
+        {
+            "series": "龙威",
+            "count": 24
+        },
+        {
+            "series": "御骏",
+            "count": 11
+        }
+    ],
+    "海马": [
+        {
+            "series": "海马爱尚EV",
+            "count": 3
+        },
+        {
+            "series": "海马E3",
+            "count": 5
+        },
+        {
+            "series": "海马M3",
+            "count": 42
+        },
+        {
+            "series": "海马M6",
+            "count": 14
+        },
+        {
+            "series": "海马S5青春版",
+            "count": 12
+        },
+        {
+            "series": "海马S5",
+            "count": 43
+        },
+        {
+            "series": "福仕达腾达",
+            "count": 4
+        },
+        {
+            "series": "福仕达福卡",
+            "count": 4
+        },
+        {
+            "series": "海马爱尚 (停售)",
+            "count": 6
+        },
+        {
+            "series": "海马王子 (停售)",
+            "count": 8
+        },
+        {
+            "series": "福仕达鸿达 (停售)",
+            "count": 8
+        },
+        {
+            "series": "福仕达荣达 (停售)",
+            "count": 9
+        },
+        {
+            "series": "福美来",
+            "count": 80
+        },
+        {
+            "series": "福美来F5",
+            "count": 5
+        },
+        {
+            "series": "海马S7",
+            "count": 24
+        },
+        {
+            "series": "福美来F7",
+            "count": 5
+        },
+        {
+            "series": "海马M8",
+            "count": 8
+        },
+        {
+            "series": "福美来MPV",
+            "count": 8
+        },
+        {
+            "series": "海马V70",
+            "count": 13
+        },
+        {
+            "series": "普力马EV",
+            "count": 1
+        },
+        {
+            "series": "丘比特 (停售)",
+            "count": 24
+        },
+        {
+            "series": "海福星 (停售)",
+            "count": 20
+        },
+        {
+            "series": "海马3 (停售)",
+            "count": 5
+        },
+        {
+            "series": "欢动 (停售)",
+            "count": 13
+        },
+        {
+            "series": "海马骑士 (停售)",
+            "count": 16
+        },
+        {
+            "series": "普力马 (停售)",
+            "count": 42
+        }
+    ],
+    "汉腾汽车": [
+        {
+            "series": "汉腾X5新能源",
+            "count": 1
+        },
+        {
+            "series": "汉腾X5",
+            "count": 9
+        },
+        {
+            "series": "汉腾X7",
+            "count": 19
+        },
+        {
+            "series": "汉腾X7新能源",
+            "count": 5
+        }
+    ],
+    "悍马": [
+        {
+            "series": "悍马H3 (停售)",
+            "count": 3
+        },
+        {
+            "series": "悍马H2 (停售)",
+            "count": 2
+        }
+    ],
+    "恒天": [
+        {
+            "series": "途腾T1",
+            "count": 2
+        },
+        {
+            "series": "途腾T2",
+            "count": 7
+        },
+        {
+            "series": "途腾T3",
+            "count": 6
+        }
+    ],
+    "红旗": [
+        {
+            "series": "红旗L5",
+            "count": 1
+        },
+        {
+            "series": "红旗H5",
+            "count": 7
+        },
+        {
+            "series": "红旗H7",
+            "count": 23
+        },
+        {
+            "series": "新明仕 (停售)",
+            "count": 1
+        },
+        {
+            "series": "红旗盛世 (停售)",
+            "count": 4
+        }
+    ],
+    "红星汽车": [
+        {
+            "series": "闪闪X2",
+            "count": 4
+        }
+    ],
+    "华凯": [
+        {
+            "series": "华凯皮卡",
+            "count": 16
+        }
+    ],
+    "华普": [
+        {
+            "series": "海锋 (停售)",
+            "count": 2
+        },
+        {
+            "series": "海尚 (停售)",
+            "count": 4
+        },
+        {
+            "series": "海炫 (停售)",
+            "count": 1
+        },
+        {
+            "series": "海迅 (停售)",
+            "count": 13
+        },
+        {
+            "series": "海域 (停售)",
+            "count": 13
+        },
+        {
+            "series": "海悦 (停售)",
+            "count": 1
+        },
+        {
+            "series": "华普海景 (停售)",
+            "count": 7
+        }
+    ],
+    "华骐": [
+        {
+            "series": "华骐300E",
+            "count": 1
+        }
+    ],
+    "华颂": [
+        {
+            "series": "华颂7",
+            "count": 7
+        }
+    ],
+    "华泰": [
+        {
+            "series": "圣达菲",
+            "count": 21
+        },
+        {
+            "series": "圣达菲5",
+            "count": 7
+        },
+        {
+            "series": "圣达菲7",
+            "count": 4
+        },
+        {
+            "series": "宝利格",
+            "count": 27
+        },
+        {
+            "series": "路盛E80",
+            "count": 4
+        },
+        {
+            "series": "路盛E70 (停售)",
+            "count": 4
+        },
+        {
+            "series": "华泰B11 (停售)",
+            "count": 12
+        },
+        {
+            "series": "圣达菲经典 (停售)",
+            "count": 51
+        },
+        {
+            "series": "特拉卡 (停售)",
+            "count": 15
+        }
+    ],
+    "华泰新能源": [
+        {
+            "series": "华泰EV160B",
+            "count": 1
+        },
+        {
+            "series": "华泰EV160R",
+            "count": 1
+        },
+        {
+            "series": "路盛S1",
+            "count": 2
+        },
+        {
+            "series": "华泰iEV230",
+            "count": 5
+        },
+        {
+            "series": "华泰XEV260",
+            "count": 5
+        }
+    ],
+    "黄海": [
+        {
+            "series": "瑞途",
+            "count": 4
+        },
+        {
+            "series": "傲骏",
+            "count": 5
+        },
+        {
+            "series": "大柴神",
+            "count": 16
+        },
+        {
+            "series": "黄海N1",
+            "count": 83
+        },
+        {
+            "series": "黄海N2",
+            "count": 48
+        },
+        {
+            "series": "黄海N3",
+            "count": 30
+        },
+        {
+            "series": "小柴神",
+            "count": 3
+        },
+        {
+            "series": "旗胜V3",
+            "count": 4
+        },
+        {
+            "series": "翱龙CUV (停售)",
+            "count": 5
+        },
+        {
+            "series": "旗胜F1 (停售)",
+            "count": 13
+        },
+        {
+            "series": "挑战者SUV (停售)",
+            "count": 4
+        }
+    ],
+    "Icona": [
+        {
+            "series": "Vulcano (停售)",
+            "count": 1
+        }
+    ],
+    "Jeep": [
+        {
+            "series": "北京JEEP (停售)",
+            "count": 6
+        },
+        {
+            "series": "大切诺基 (停售)",
+            "count": 5
+        },
+        {
+            "series": "自由侠",
+            "count": 28
+        },
+        {
+            "series": "指南者",
+            "count": 9
+        },
+        {
+            "series": "大指挥官",
+            "count": 8
+        },
+        {
+            "series": "指挥官",
+            "count": 5
+        },
+        {
+            "series": "自由光",
+            "count": 20
+        },
+        {
+            "series": "牧马人",
+            "count": 54
+        },
+        {
+            "series": "大切诺基(进口)",
+            "count": 73
+        },
+        {
+            "series": "指南者(进口)",
+            "count": 41
+        },
+        {
+            "series": "自由光(进口)",
+            "count": 6
+        },
+        {
+            "series": "自由人",
+            "count": 1
+        },
+        {
+            "series": "自由客 (停售)",
+            "count": 19
+        },
+        {
+            "series": "指挥官经典 (停售)",
+            "count": 4
+        },
+        {
+            "series": "大切诺基 SRT",
+            "count": 4
+        }
+    ],
+    "吉利汽车": [
+        {
+            "series": "金刚",
+            "count": 53
+        },
+        {
+            "series": "缤瑞",
+            "count": 7
+        },
+        {
+            "series": "帝豪",
+            "count": 56
+        },
+        {
+            "series": "帝豪GL",
+            "count": 14
+        },
+        {
+            "series": "帝豪新能源",
+            "count": 14
+        },
+        {
+            "series": "远景",
+            "count": 48
+        },
+        {
+            "series": "博瑞",
+            "count": 28
+        },
+        {
+            "series": "博瑞GE",
+            "count": 5
+        },
+        {
+            "series": "博瑞GE新能源",
+            "count": 3
+        },
+        {
+            "series": "缤越",
+            "count": 5
+        },
+        {
+            "series": "远景X1",
+            "count": 4
+        },
+        {
+            "series": "远景X3",
+            "count": 6
+        },
+        {
+            "series": "博越",
+            "count": 25
+        },
+        {
+            "series": "帝豪GS",
+            "count": 23
+        },
+        {
+            "series": "帝豪GSe",
+            "count": 4
+        },
+        {
+            "series": "远景S1",
+            "count": 8
+        },
+        {
+            "series": "远景SUV",
+            "count": 12
+        },
+        {
+            "series": "吉利GX2 (停售)",
+            "count": 7
+        },
+        {
+            "series": "熊猫 (停售)",
+            "count": 54
+        },
+        {
+            "series": "豪情 (停售)",
+            "count": 15
+        },
+        {
+            "series": "吉利SC3 (停售)",
+            "count": 6
+        },
+        {
+            "series": "吉利SC5-RV (停售)",
+            "count": 3
+        },
+        {
+            "series": "金刚财富 (停售)",
+            "count": 6
+        },
+        {
+            "series": "金鹰 (停售)",
+            "count": 21
+        },
+        {
+            "series": "英伦C5 (停售)",
+            "count": 19
+        },
+        {
+            "series": "优利欧 (停售)",
+            "count": 13
+        },
+        {
+            "series": "自由舰 (停售)",
+            "count": 45
+        },
+        {
+            "series": "海景 (停售)",
+            "count": 31
+        },
+        {
+            "series": "吉利GC7 (停售)",
+            "count": 14
+        },
+        {
+            "series": "经典帝豪 (停售)",
+            "count": 57
+        },
+        {
+            "series": "吉利EC8 (停售)",
+            "count": 27
+        },
+        {
+            "series": "吉利GX7 (停售)",
+            "count": 51
+        },
+        {
+            "series": "吉利SX7 (停售)",
+            "count": 17
+        },
+        {
+            "series": "豪情SUV (停售)",
+            "count": 8
+        },
+        {
+            "series": "英伦TX4 (停售)",
+            "count": 4
+        },
+        {
+            "series": "美人豹 (停售)",
+            "count": 8
+        },
+        {
+            "series": "中国龙 (停售)",
+            "count": 2
+        }
+    ],
+    "江淮": [
+        {
+            "series": "江淮iEV6E",
+            "count": 6
+        },
+        {
+            "series": "江淮iEV",
+            "count": 8
+        },
+        {
+            "series": "江淮iEVA50",
+            "count": 3
+        },
+        {
+            "series": "瑞风A60",
+            "count": 5
+        },
+        {
+            "series": "江淮iEV7S",
+            "count": 2
+        },
+        {
+            "series": "瑞风S2",
+            "count": 24
+        },
+        {
+            "series": "瑞风S2mini",
+            "count": 5
+        },
+        {
+            "series": "瑞风S3",
+            "count": 34
+        },
+        {
+            "series": "瑞风S5",
+            "count": 29
+        },
+        {
+            "series": "瑞风S7",
+            "count": 39
+        },
+        {
+            "series": "瑞风M3",
+            "count": 20
+        },
+        {
+            "series": "瑞风M4",
+            "count": 32
+        },
+        {
+            "series": "瑞风M5",
+            "count": 33
+        },
+        {
+            "series": "瑞风M6",
+            "count": 3
+        },
+        {
+            "series": "瑞风R3",
+            "count": 8
+        },
+        {
+            "series": "凌铃",
+            "count": 6
+        },
+        {
+            "series": "星锐",
+            "count": 36
+        },
+        {
+            "series": "江淮V7",
+            "count": 8
+        },
+        {
+            "series": "帅铃T6",
+            "count": 60
+        },
+        {
+            "series": "帅铃T8",
+            "count": 16
+        },
+        {
+            "series": "瑞风",
+            "count": 46
+        },
+        {
+            "series": "悦悦 (停售)",
+            "count": 19
+        },
+        {
+            "series": "和悦A13 (停售)",
+            "count": 3
+        },
+        {
+            "series": "和悦A13RS (停售)",
+            "count": 4
+        },
+        {
+            "series": "和悦A30 (停售)",
+            "count": 13
+        },
+        {
+            "series": "同悦 (停售)",
+            "count": 16
+        },
+        {
+            "series": "同悦RS (停售)",
+            "count": 19
+        },
+        {
+            "series": "和悦 (停售)",
+            "count": 40
+        },
+        {
+            "series": "宾悦 (停售)",
+            "count": 33
+        },
+        {
+            "series": "江淮iEV6S (停售)",
+            "count": 1
+        },
+        {
+            "series": "瑞鹰 (停售)",
+            "count": 35
+        },
+        {
+            "series": "瑞风M2 (停售)",
+            "count": 55
+        },
+        {
+            "series": "江淮K3 (停售)",
+            "count": 18
+        },
+        {
+            "series": "江淮K5 (停售)",
+            "count": 22
+        },
+        {
+            "series": "瑞铃 (停售)",
+            "count": 81
+        },
+        {
+            "series": "征途 (停售)",
+            "count": 3
+        }
+    ],
+    "江铃": [
+        {
+            "series": "域虎新能源",
+            "count": 1
+        },
+        {
+            "series": "特顺",
+            "count": 17
+        },
+        {
+            "series": "宝典",
+            "count": 75
+        },
+        {
+            "series": "域虎3",
+            "count": 16
+        },
+        {
+            "series": "域虎5",
+            "count": 8
+        },
+        {
+            "series": "域虎7",
+            "count": 40
+        },
+        {
+            "series": "宝威 (停售)",
+            "count": 4
+        }
+    ],
+    "江铃集团轻汽": [
+        {
+            "series": "骐铃T100",
+            "count": 28
+        },
+        {
+            "series": "骐铃T5",
+            "count": 68
+        },
+        {
+            "series": "骐铃T7",
+            "count": 171
+        },
+        {
+            "series": "骐铃T3 (停售)",
+            "count": 4
+        }
+    ],
+    "江铃集团新能源": [
+        {
+            "series": "江铃E100B",
+            "count": 2
+        },
+        {
+            "series": "江铃E200L",
+            "count": 4
+        },
+        {
+            "series": "江铃E200N",
+            "count": 4
+        },
+        {
+            "series": "江铃E160",
+            "count": 4
+        },
+        {
+            "series": "江铃E400",
+            "count": 3
+        }
+    ],
+    "捷豹": [
+        {
+            "series": "捷豹XEL",
+            "count": 7
+        },
+        {
+            "series": "捷豹XFL",
+            "count": 13
+        },
+        {
+            "series": "捷豹E-PACE",
+            "count": 6
+        },
+        {
+            "series": "捷豹XE",
+            "count": 11
+        },
+        {
+            "series": "捷豹XF",
+            "count": 45
+        },
+        {
+            "series": "捷豹XJ",
+            "count": 61
+        },
+        {
+            "series": "捷豹F-PACE",
+            "count": 15
+        },
+        {
+            "series": "捷豹I-PACE",
+            "count": 4
+        },
+        {
+            "series": "捷豹F-TYPE",
+            "count": 30
+        },
+        {
+            "series": "捷豹XK",
+            "count": 10
+        },
+        {
+            "series": "捷豹X-Type (停售)",
+            "count": 1
+        },
+        {
+            "series": "捷豹S-Type (停售)",
+            "count": 4
+        }
+    ],
+    "捷途": [
+        {
+            "series": "捷途X70",
+            "count": 8
+        }
+    ],
+    "金杯": [
+        {
+            "series": "金杯F50",
+            "count": 9
+        },
+        {
+            "series": "阁瑞斯",
+            "count": 110
+        },
+        {
+            "series": "金杯大海狮",
+            "count": 44
+        },
+        {
+            "series": "金杯海狮",
+            "count": 77
+        },
+        {
+            "series": "金杯快运",
+            "count": 7
+        },
+        {
+            "series": "金杯S50 (停售)",
+            "count": 7
+        },
+        {
+            "series": "华晨金杯750",
+            "count": 10
+        },
+        {
+            "series": "海狮X30L",
+            "count": 24
+        },
+        {
+            "series": "小海狮X30",
+            "count": 23
+        },
+        {
+            "series": "海星T20",
+            "count": 12
+        },
+        {
+            "series": "海星T22",
+            "count": 8
+        },
+        {
+            "series": "金杯T30",
+            "count": 16
+        },
+        {
+            "series": "金杯T32",
+            "count": 20
+        },
+        {
+            "series": "金杯T50",
+            "count": 10
+        },
+        {
+            "series": "金杯T52",
+            "count": 10
+        },
+        {
+            "series": "海狮S",
+            "count": 8
+        },
+        {
+            "series": "海星A7 (停售)",
+            "count": 8
+        },
+        {
+            "series": "海星A9 (停售)",
+            "count": 3
+        },
+        {
+            "series": "智尚S35",
+            "count": 6
+        },
+        {
+            "series": "金杯S70",
+            "count": 9
+        },
+        {
+            "series": "西部牛仔",
+            "count": 16
+        },
+        {
+            "series": "大力神K5",
+            "count": 20
+        },
+        {
+            "series": "金典",
+            "count": 26
+        },
+        {
+            "series": "小金牛",
+            "count": 6
+        },
+        {
+            "series": "大力神",
+            "count": 36
+        },
+        {
+            "series": "智尚S30 (停售)",
+            "count": 19
+        },
+        {
+            "series": "雷龙 (停售)",
+            "count": 11
+        }
+    ],
+    "金龙": [
+        {
+            "series": "金威",
+            "count": 69
+        },
+        {
+            "series": "凯歌",
+            "count": 28
+        },
+        {
+            "series": "凯锐浩克",
+            "count": 9
+        },
+        {
+            "series": "凯特",
+            "count": 8
+        }
+    ],
+    "金旅": [
+        {
+            "series": "金旅大海狮",
+            "count": 2
+        },
+        {
+            "series": "金旅大海狮新能源",
+            "count": 1
+        },
+        {
+            "series": "金旅海狮",
+            "count": 8
+        },
+        {
+            "series": "金旅海狮新能源",
+            "count": 3
+        }
+    ],
+    "九龙": [
+        {
+            "series": "艾菲新能源",
+            "count": 3
+        },
+        {
+            "series": "艾菲",
+            "count": 9
+        },
+        {
+            "series": "九龙A4",
+            "count": 11
+        },
+        {
+            "series": "九龙A5",
+            "count": 11
+        },
+        {
+            "series": "九龙A6",
+            "count": 10
+        },
+        {
+            "series": "九龙C6",
+            "count": 2
+        },
+        {
+            "series": "考斯特",
+            "count": 2
+        },
+        {
+            "series": "大MPV (停售)",
+            "count": 5
+        }
+    ],
+    "君马汽车": [
+        {
+            "series": "君马MEET 3",
+            "count": 8
+        },
+        {
+            "series": "君马S70",
+            "count": 26
+        },
+        {
+            "series": "君马SEEK 5",
+            "count": 8
+        }
+    ],
+    "KTM": [
+        {
+            "series": "X-BOW",
+            "count": 1
+        }
+    ],
+    "卡尔森": [
+        {
+            "series": "卡尔森 CCA22",
+            "count": 1
+        },
+        {
+            "series": "卡尔森 S级 (停售)",
+            "count": 2
+        },
+        {
+            "series": "卡尔森 GL级 (停售)",
+            "count": 2
+        }
+    ],
+    "卡升": [
+        {
+            "series": "卡升C10",
+            "count": 4
+        },
+        {
+            "series": "卡升T6",
+            "count": 1
+        },
+        {
+            "series": "卡升V-Class",
+            "count": 1
+        },
+        {
+            "series": "卡升威霆",
+            "count": 6
+        }
+    ],
+    "卡威": [
+        {
+            "series": "卡威W1新能源",
+            "count": 1
+        },
+        {
+            "series": "路易斯",
+            "count": 2
+        },
+        {
+            "series": "卡威K1",
+            "count": 16
+        },
+        {
+            "series": "卡威K150GT",
+            "count": 18
+        },
+        {
+            "series": "卡威W1 (停售)",
+            "count": 6
+        },
+        {
+            "series": "卡威K150 (停售)",
+            "count": 21
+        }
+    ],
+    "开瑞": [
+        {
+            "series": "开瑞K60",
+            "count": 16
+        },
+        {
+            "series": "开瑞K60EV",
+            "count": 2
+        },
+        {
+            "series": "开瑞K50",
+            "count": 33
+        },
+        {
+            "series": "开瑞K50EV",
+            "count": 1
+        },
+        {
+            "series": "优优",
+            "count": 32
+        },
+        {
+            "series": "优优2代",
+            "count": 11
+        },
+        {
+            "series": "优优EV",
+            "count": 2
+        },
+        {
+            "series": "优劲",
+            "count": 48
+        },
+        {
+            "series": "优劲EV",
+            "count": 2
+        },
+        {
+            "series": "优翼 (停售)",
+            "count": 3
+        },
+        {
+            "series": "优派 (停售)",
+            "count": 3
+        },
+        {
+            "series": "优胜 (停售)",
+            "count": 1
+        },
+        {
+            "series": "优胜2代 (停售)",
+            "count": 10
+        },
+        {
+            "series": "优雅 (停售)",
+            "count": 14
+        },
+        {
+            "series": "优雅2代 (停售)",
+            "count": 5
+        },
+        {
+            "series": "杰虎 (停售)",
+            "count": 12
+        }
+    ],
+    "凯迪拉克": [
+        {
+            "series": "凯迪拉克ATS-L",
+            "count": 17
+        },
+        {
+            "series": "凯迪拉克CT6",
+            "count": 16
+        },
+        {
+            "series": "凯迪拉克CT6 PLUG-IN",
+            "count": 2
+        },
+        {
+            "series": "凯迪拉克XTS",
+            "count": 29
+        },
+        {
+            "series": "凯迪拉克XT4",
+            "count": 7
+        },
+        {
+            "series": "凯迪拉克XT5",
+            "count": 19
+        },
+        {
+            "series": "SLS赛威 (停售)",
+            "count": 13
+        },
+        {
+            "series": "凯迪拉克CTS (停售)",
+            "count": 6
+        },
+        {
+            "series": "凯雷德ESCALADE",
+            "count": 7
+        },
+        {
+            "series": "凯迪拉克ATS(进口)",
+            "count": 4
+        },
+        {
+            "series": "凯迪拉克CTS(进口)",
+            "count": 26
+        },
+        {
+            "series": "凯迪拉克SRX (停售)",
+            "count": 39
+        },
+        {
+            "series": "凯迪拉克XLR (停售)",
+            "count": 2
+        }
+    ],
+    "凯翼": [
+        {
+            "series": "凯翼C3",
+            "count": 8
+        },
+        {
+            "series": "凯翼C3R",
+            "count": 8
+        },
+        {
+            "series": "凯翼E3",
+            "count": 10
+        },
+        {
+            "series": "凯翼X3",
+            "count": 27
+        },
+        {
+            "series": "凯翼V3",
+            "count": 7
+        },
+        {
+            "series": "凯翼X5",
+            "count": 6
+        }
+    ],
+    "科尼赛克": [
+        {
+            "series": "Agera",
+            "count": 1
+        },
+        {
+            "series": "科尼赛克CCX (停售)",
+            "count": 1
+        },
+        {
+            "series": "科尼赛克CCXR (停售)",
+            "count": 2
+        }
+    ],
+    "克莱斯勒": [
+        {
+            "series": "铂锐 (停售)",
+            "count": 4
+        },
+        {
+            "series": "克莱斯勒300C (停售)",
+            "count": 5
+        },
+        {
+            "series": "大捷龙 (停售)",
+            "count": 5
+        },
+        {
+            "series": "克莱斯勒300C(进口)",
+            "count": 11
+        },
+        {
+            "series": "大捷龙(进口)",
+            "count": 3
+        },
+        {
+            "series": "大捷龙PHEV(进口)",
+            "count": 1
+        },
+        {
+            "series": "PT 漫步者 (停售)",
+            "count": 2
+        },
+        {
+            "series": "交叉火力 (停售)",
+            "count": 1
+        }
+    ],
+    "LITE": [
+        {
+            "series": "LITE",
+            "count": 4
+        }
+    ],
+    "LOCAL MOTORS": [
+        {
+            "series": "RALLY FIGHTER",
+            "count": 1
+        }
+    ],
+    "Lorinser": [
+        {
+            "series": "Lorinser S级 (停售)",
+            "count": 4
+        },
+        {
+            "series": "Lorinser M级 (停售)",
+            "count": 2
+        },
+        {
+            "series": "Lorinser MAYBACH S650",
+            "count": 1
+        },
+        {
+            "series": "Lorinser GS500",
+            "count": 1
+        },
+        {
+            "series": "Lorinser MS500L",
+            "count": 1
+        },
+        {
+            "series": "Lorinser VS系列",
+            "count": 3
+        },
+        {
+            "series": "Metris MS500",
+            "count": 2
+        },
+        {
+            "series": "Sprinter LS500",
+            "count": 1
+        }
+    ],
+    "兰博基尼": [
+        {
+            "series": "Urus",
+            "count": 1
+        },
+        {
+            "series": "Huracán",
+            "count": 8
+        },
+        {
+            "series": "Aventador",
+            "count": 6
+        },
+        {
+            "series": "Gallardo (停售)",
+            "count": 12
+        },
+        {
+            "series": "Murcielago (停售)",
+            "count": 5
+        },
+        {
+            "series": "Reventon (停售)",
+            "count": 1
+        }
+    ],
+    "劳斯莱斯": [
+        {
+            "series": "库里南",
+            "count": 2
+        },
+        {
+            "series": "幻影",
+            "count": 12
+        },
+        {
+            "series": "古思特",
+            "count": 10
+        },
+        {
+            "series": "魅影",
+            "count": 2
+        },
+        {
+            "series": "曜影",
+            "count": 1
+        }
+    ],
+    "雷克萨斯": [
+        {
+            "series": "雷克萨斯CT",
+            "count": 29
+        },
+        {
+            "series": "雷克萨斯IS",
+            "count": 31
+        },
+        {
+            "series": "雷克萨斯ES",
+            "count": 46
+        },
+        {
+            "series": "雷克萨斯GS",
+            "count": 32
+        },
+        {
+            "series": "雷克萨斯LS",
+            "count": 28
+        },
+        {
+            "series": "雷克萨斯NX",
+            "count": 28
+        },
+        {
+            "series": "雷克萨斯GX",
+            "count": 7
+        },
+        {
+            "series": "雷克萨斯RX",
+            "count": 10
+        },
+        {
+            "series": "雷克萨斯LX",
+            "count": 14
+        },
+        {
+            "series": "雷克萨斯LC",
+            "count": 3
+        },
+        {
+            "series": "雷克萨斯RC",
+            "count": 6
+        },
+        {
+            "series": "雷克萨斯RX经典 (停售)",
+            "count": 28
+        },
+        {
+            "series": "雷克萨斯SC (停售)",
+            "count": 3
+        },
+        {
+            "series": "雷克萨斯RC F",
+            "count": 9
+        },
+        {
+            "series": "雷克萨斯LFA (停售)",
+            "count": 1
+        }
+    ],
+    "雷诺": [
+        {
+            "series": "科雷傲",
+            "count": 16
+        },
+        {
+            "series": "科雷嘉",
+            "count": 12
+        },
+        {
+            "series": "风朗",
+            "count": 11
+        },
+        {
+            "series": "卡缤",
+            "count": 8
+        },
+        {
+            "series": "Espace",
+            "count": 3
+        },
+        {
+            "series": "梅甘娜",
+            "count": 7
+        },
+        {
+            "series": "塔利斯曼",
+            "count": 8
+        },
+        {
+            "series": "科雷傲(进口)",
+            "count": 56
+        },
+        {
+            "series": "风景",
+            "count": 14
+        },
+        {
+            "series": "拉古那 (停售)",
+            "count": 8
+        },
+        {
+            "series": "纬度 (停售)",
+            "count": 18
+        },
+        {
+            "series": "威赛帝 (停售)",
+            "count": 1
+        }
+    ],
+    "理念": [
+        {
+            "series": "理念S1 (停售)",
+            "count": 15
+        }
+    ],
+    "理想智造": [
+        {
+            "series": "理想智造ONE",
+            "count": 1
+        }
+    ],
+    "力帆汽车": [
+        {
+            "series": "力帆650",
+            "count": 2
+        },
+        {
+            "series": "力帆330EV",
+            "count": 4
+        },
+        {
+            "series": "力帆620EV",
+            "count": 4
+        },
+        {
+            "series": "力帆650EV",
+            "count": 2
+        },
+        {
+            "series": "力帆820",
+            "count": 5
+        },
+        {
+            "series": "力帆820EV",
+            "count": 4
+        },
+        {
+            "series": "力帆X50",
+            "count": 6
+        },
+        {
+            "series": "力帆X60",
+            "count": 14
+        },
+        {
+            "series": "迈威",
+            "count": 8
+        },
+        {
+            "series": "迈威新能源",
+            "count": 1
+        },
+        {
+            "series": "力帆X80",
+            "count": 5
+        },
+        {
+            "series": "轩朗",
+            "count": 12
+        },
+        {
+            "series": "丰顺",
+            "count": 12
+        },
+        {
+            "series": "福顺",
+            "count": 4
+        },
+        {
+            "series": "乐途",
+            "count": 10
+        },
+        {
+            "series": "兴顺",
+            "count": 8
+        },
+        {
+            "series": "力帆T11",
+            "count": 6
+        },
+        {
+            "series": "力帆T21",
+            "count": 2
+        },
+        {
+            "series": "力帆320 (停售)",
+            "count": 18
+        },
+        {
+            "series": "力帆330 (停售)",
+            "count": 6
+        },
+        {
+            "series": "力帆530 (停售)",
+            "count": 9
+        },
+        {
+            "series": "力帆520 (停售)",
+            "count": 41
+        },
+        {
+            "series": "力帆620 (停售)",
+            "count": 26
+        },
+        {
+            "series": "力帆630 (停售)",
+            "count": 10
+        },
+        {
+            "series": "力帆720 (停售)",
+            "count": 18
+        }
+    ],
+    "莲花汽车": [
+        {
+            "series": "竞速 (停售)",
+            "count": 6
+        },
+        {
+            "series": "竞悦 (停售)",
+            "count": 2
+        },
+        {
+            "series": "莲花L3 (停售)",
+            "count": 19
+        },
+        {
+            "series": "莲花L5 (停售)",
+            "count": 37
+        }
+    ],
+    "猎豹汽车": [
+        {
+            "series": "猎豹CS9",
+            "count": 15
+        },
+        {
+            "series": "猎豹CS9新能源",
+            "count": 5
+        },
+        {
+            "series": "Mattu",
+            "count": 7
+        },
+        {
+            "series": "猎豹CS10",
+            "count": 32
+        },
+        {
+            "series": "黑金刚",
+            "count": 16
+        },
+        {
+            "series": "猎豹Q6",
+            "count": 9
+        },
+        {
+            "series": "猎豹CT7",
+            "count": 20
+        },
+        {
+            "series": "飞腾 (停售)",
+            "count": 21
+        },
+        {
+            "series": "猎豹CS7 (停售)",
+            "count": 8
+        },
+        {
+            "series": "飞腾C5 (停售)",
+            "count": 2
+        },
+        {
+            "series": "猎豹C5EV (停售)",
+            "count": 2
+        },
+        {
+            "series": "猎豹6481 (停售)",
+            "count": 4
+        },
+        {
+            "series": "猎豹CS6 (停售)",
+            "count": 17
+        },
+        {
+            "series": "骐菱 (停售)",
+            "count": 3
+        },
+        {
+            "series": "飞铃 (停售)",
+            "count": 4
+        },
+        {
+            "series": "飞扬 (停售)",
+            "count": 5
+        },
+        {
+            "series": "猎豹CT5 (停售)",
+            "count": 8
+        }
+    ],
+    "林肯": [
+        {
+            "series": "林肯MKZ",
+            "count": 23
+        },
+        {
+            "series": "林肯大陆",
+            "count": 11
+        },
+        {
+            "series": "林肯MKC",
+            "count": 20
+        },
+        {
+            "series": "林肯MKX",
+            "count": 13
+        },
+        {
+            "series": "领航员",
+            "count": 7
+        },
+        {
+            "series": "林肯MKT",
+            "count": 1
+        },
+        {
+            "series": "林肯MKS (停售)",
+            "count": 1
+        },
+        {
+            "series": "城市 (停售)",
+            "count": 2
+        }
+    ],
+    "铃木": [
+        {
+            "series": "北斗星",
+            "count": 54
+        },
+        {
+            "series": "北斗星X5",
+            "count": 12
+        },
+        {
+            "series": "利亚纳A6",
+            "count": 31
+        },
+        {
+            "series": "派喜 (停售)",
+            "count": 6
+        },
+        {
+            "series": "利亚纳 (停售)",
+            "count": 47
+        },
+        {
+            "series": "浪迪 (停售)",
+            "count": 13
+        },
+        {
+            "series": "奥拓",
+            "count": 25
+        },
+        {
+            "series": "雨燕",
+            "count": 62
+        },
+        {
+            "series": "启悦",
+            "count": 8
+        },
+        {
+            "series": "天语 SX4",
+            "count": 69
+        },
+        {
+            "series": "维特拉",
+            "count": 10
+        },
+        {
+            "series": "骁途",
+            "count": 7
+        },
+        {
+            "series": "羚羊 (停售)",
+            "count": 18
+        },
+        {
+            "series": "天语 尚悦 (停售)",
+            "count": 12
+        },
+        {
+            "series": "锋驭 (停售)",
+            "count": 13
+        },
+        {
+            "series": "吉姆尼(进口)",
+            "count": 28
+        },
+        {
+            "series": "英格尼斯",
+            "count": 1
+        },
+        {
+            "series": "超级维特拉",
+            "count": 18
+        },
+        {
+            "series": "速翼特",
+            "count": 2
+        },
+        {
+            "series": "凯泽西 (停售)",
+            "count": 12
+        }
+    ],
+    "零跑汽车": [
+        {
+            "series": "零跑S01",
+            "count": 1
+        }
+    ],
+    "领克": [
+        {
+            "series": "领克03",
+            "count": 6
+        },
+        {
+            "series": "领克01",
+            "count": 7
+        },
+        {
+            "series": "领克01新能源",
+            "count": 3
+        },
+        {
+            "series": "领克02",
+            "count": 8
+        }
+    ],
+    "领途汽车": [
+        {
+            "series": "领途K-ONE",
+            "count": 4
+        },
+        {
+            "series": "领途E行",
+            "count": 2
+        }
+    ],
+    "陆地方舟": [
+        {
+            "series": "威途X35",
+            "count": 5
+        },
+        {
+            "series": "艾威 (停售)",
+            "count": 2
+        },
+        {
+            "series": "陆地方舟风尚 (停售)",
+            "count": 1
+        },
+        {
+            "series": "陆地方舟V5 (停售)",
+            "count": 2
+        }
+    ],
+    "陆风": [
+        {
+            "series": "陆风X2",
+            "count": 9
+        },
+        {
+            "series": "陆风X5",
+            "count": 27
+        },
+        {
+            "series": "陆风X7",
+            "count": 10
+        },
+        {
+            "series": "陆风X8",
+            "count": 83
+        },
+        {
+            "series": "陆风逍遥",
+            "count": 13
+        },
+        {
+            "series": "风华 (停售)",
+            "count": 4
+        },
+        {
+            "series": "陆风X6 (停售)",
+            "count": 31
+        },
+        {
+            "series": "陆风X9 (停售)",
+            "count": 17
+        },
+        {
+            "series": "风尚 (停售)",
+            "count": 15
+        }
+    ],
+    "路虎": [
+        {
+            "series": "发现神行",
+            "count": 17
+        },
+        {
+            "series": "揽胜极光",
+            "count": 21
+        },
+        {
+            "series": "揽胜极光(进口)",
+            "count": 26
+        },
+        {
+            "series": "揽胜星脉",
+            "count": 14
+        },
+        {
+            "series": "发现",
+            "count": 49
+        },
+        {
+            "series": "揽胜运动版",
+            "count": 54
+        },
+        {
+            "series": "揽胜",
+            "count": 60
+        },
+        {
+            "series": "揽胜新能源",
+            "count": 1
+        },
+        {
+            "series": "揽胜运动版新能源",
+            "count": 1
+        },
+        {
+            "series": "发现神行(进口)",
+            "count": 2
+        },
+        {
+            "series": "卫士",
+            "count": 1
+        },
+        {
+            "series": "神行者2 (停售)",
+            "count": 33
+        },
+        {
+            "series": "神行者 (停售)",
+            "count": 2
+        }
+    ],
+    "路特斯": [
+        {
+            "series": "Evora",
+            "count": 6
+        },
+        {
+            "series": "Exige",
+            "count": 3
+        },
+        {
+            "series": "Elise",
+            "count": 5
+        }
+    ],
+    "罗夫哈特": [
+        {
+            "series": "罗夫哈特GR500",
+            "count": 2
+        }
+    ],
+    "MINI": [
+        {
+            "series": "MINI",
+            "count": 105
+        },
+        {
+            "series": "MINI CLUBMAN",
+            "count": 35
+        },
+        {
+            "series": "MINI COUNTRYMAN",
+            "count": 43
+        },
+        {
+            "series": "MINI ROADSTER (停售)",
+            "count": 2
+        },
+        {
+            "series": "MINI PACEMAN (停售)",
+            "count": 6
+        },
+        {
+            "series": "MINI COUPE (停售)",
+            "count": 2
+        },
+        {
+            "series": "MINI JCW",
+            "count": 8
+        },
+        {
+            "series": "MINI JCW CLUBMAN",
+            "count": 3
+        },
+        {
+            "series": "MINI JCW COUNTRYMAN",
+            "count": 4
+        },
+        {
+            "series": "MINI JCW PACEMAN (停售)",
+            "count": 2
+        },
+        {
+            "series": "MINI JCW COUPE (停售)",
+            "count": 1
+        }
+    ],
+    "马自达": [
+        {
+            "series": "马自达3 Axela昂克赛拉",
+            "count": 36
+        },
+        {
+            "series": "马自达CX-5",
+            "count": 22
+        },
+        {
+            "series": "马自达2 (停售)",
+            "count": 23
+        },
+        {
+            "series": "马自达2劲翔 (停售)",
+            "count": 11
+        },
+        {
+            "series": "马自达3 (停售)",
+            "count": 18
+        },
+        {
+            "series": "马自达3星骋 (停售)",
+            "count": 20
+        },
+        {
+            "series": "阿特兹",
+            "count": 24
+        },
+        {
+            "series": "马自达CX-4",
+            "count": 19
+        },
+        {
+            "series": "马自达6 (停售)",
+            "count": 37
+        },
+        {
+            "series": "睿翼 (停售)",
+            "count": 20
+        },
+        {
+            "series": "马自达CX-7 (停售)",
+            "count": 5
+        },
+        {
+            "series": "马自达8 (停售)",
+            "count": 9
+        },
+        {
+            "series": "马自达CX-3",
+            "count": 2
+        },
+        {
+            "series": "马自达MX-5",
+            "count": 5
+        },
+        {
+            "series": "马自达3(进口)",
+            "count": 7
+        },
+        {
+            "series": "ATENZA",
+            "count": 1
+        },
+        {
+            "series": "马自达CX-5(进口)",
+            "count": 5
+        },
+        {
+            "series": "马自达CX-9",
+            "count": 1
+        },
+        {
+            "series": "马自达CX-7(进口) (停售)",
+            "count": 2
+        },
+        {
+            "series": "马自达5 (停售)",
+            "count": 9
+        },
+        {
+            "series": "马自达8(进口) (停售)",
+            "count": 1
+        },
+        {
+            "series": "马自达RX-8 (停售)",
+            "count": 3
+        }
+    ],
+    "玛莎拉蒂": [
+        {
+            "series": "Ghibli",
+            "count": 8
+        },
+        {
+            "series": "总裁",
+            "count": 25
+        },
+        {
+            "series": "Levante",
+            "count": 10
+        },
+        {
+            "series": "GranTurismo",
+            "count": 7
+        },
+        {
+            "series": "GranCabrio",
+            "count": 4
+        },
+        {
+            "series": "Coupe",
+            "count": 2
+        },
+        {
+            "series": "玛莎拉蒂Spyder (停售)",
+            "count": 1
+        }
+    ],
+    "迈巴赫": [
+        {
+            "series": "迈巴赫 (停售)",
+            "count": 4
+        }
+    ],
+    "迈凯伦": [
+        {
+            "series": "迈凯伦540C",
+            "count": 2
+        },
+        {
+            "series": "迈凯伦570",
+            "count": 5
+        },
+        {
+            "series": "迈凯伦600LT",
+            "count": 1
+        },
+        {
+            "series": "迈凯伦720S",
+            "count": 2
+        },
+        {
+            "series": "迈凯伦P1",
+            "count": 1
+        },
+        {
+            "series": "迈凯伦650S",
+            "count": 2
+        },
+        {
+            "series": "迈凯伦675LT",
+            "count": 1
+        },
+        {
+            "series": "迈凯伦12C (停售)",
+            "count": 5
+        },
+        {
+            "series": "迈凯伦625C (停售)",
+            "count": 2
+        }
+    ],
+    "名爵": [
+        {
+            "series": "名爵3",
+            "count": 26
+        },
+        {
+            "series": "名爵3SW",
+            "count": 11
+        },
+        {
+            "series": "名爵6",
+            "count": 60
+        },
+        {
+            "series": "名爵6新能源",
+            "count": 3
+        },
+        {
+            "series": "锐行",
+            "count": 18
+        },
+        {
+            "series": "名爵ZS",
+            "count": 18
+        },
+        {
+            "series": "名爵HS",
+            "count": 9
+        },
+        {
+            "series": "锐腾",
+            "count": 35
+        },
+        {
+            "series": "名爵5 (停售)",
+            "count": 16
+        },
+        {
+            "series": "名爵7 (停售)",
+            "count": 32
+        },
+        {
+            "series": "名爵TF (停售)",
+            "count": 2
+        }
+    ],
+    "摩根": [
+        {
+            "series": "摩根EV3",
+            "count": 1
+        },
+        {
+            "series": "3 Wheeler",
+            "count": 3
+        },
+        {
+            "series": "摩根4-4",
+            "count": 1
+        },
+        {
+            "series": "摩根Aero",
+            "count": 2
+        },
+        {
+            "series": "摩根Aero 8",
+            "count": 1
+        },
+        {
+            "series": "摩根Plus 4",
+            "count": 2
+        },
+        {
+            "series": "摩根Plus 8",
+            "count": 1
+        },
+        {
+            "series": "摩根Roadster",
+            "count": 2
+        }
+    ],
+    "NEVS国能汽车": [
+        {
+            "series": "国能汽车93",
+            "count": 1
+        }
+    ],
+    "哪吒汽车": [
+        {
+            "series": "哪吒N01",
+            "count": 3
+        }
+    ],
+    "纳智捷": [
+        {
+            "series": "纳5",
+            "count": 21
+        },
+        {
+            "series": "锐3",
+            "count": 7
+        },
+        {
+            "series": "U5 SUV",
+            "count": 16
+        },
+        {
+            "series": "优6 SUV",
+            "count": 42
+        },
+        {
+            "series": "大7 MPV",
+            "count": 17
+        },
+        {
+            "series": "大7 SUV (停售)",
+            "count": 27
+        },
+        {
+            "series": "MASTER CEO (停售)",
+            "count": 2
+        }
+    ],
+    "南京金龙": [
+        {
+            "series": "开沃D07",
+            "count": 4
+        },
+        {
+            "series": "开沃D08",
+            "count": 1
+        },
+        {
+            "series": "开沃D09",
+            "count": 1
+        },
+        {
+            "series": "开沃D10",
+            "count": 1
+        },
+        {
+            "series": "开沃D11",
+            "count": 21
+        }
+    ],
+    "讴歌": [
+        {
+            "series": "讴歌RDX",
+            "count": 5
+        },
+        {
+            "series": "讴歌TLX-L",
+            "count": 5
+        },
+        {
+            "series": "讴歌CDX",
+            "count": 11
+        },
+        {
+            "series": "讴歌MDX",
+            "count": 14
+        },
+        {
+            "series": "讴歌NSX",
+            "count": 1
+        },
+        {
+            "series": "讴歌RDX(进口)",
+            "count": 5
+        },
+        {
+            "series": "讴歌ILX",
+            "count": 2
+        },
+        {
+            "series": "讴歌TLX",
+            "count": 2
+        },
+        {
+            "series": "讴歌RLX",
+            "count": 2
+        },
+        {
+            "series": "讴歌ZDX",
+            "count": 1
+        },
+        {
+            "series": "讴歌TL (停售)",
+            "count": 7
+        },
+        {
+            "series": "讴歌RL (停售)",
+            "count": 3
+        }
+    ],
+    "欧宝": [
+        {
+            "series": "雅特",
+            "count": 17
+        },
+        {
+            "series": "英速亚",
+            "count": 2
+        },
+        {
+            "series": "麦瑞纳",
+            "count": 2
+        },
+        {
+            "series": "赛飞利",
+            "count": 8
+        },
+        {
+            "series": "威达 (停售)",
+            "count": 5
+        },
+        {
+            "series": "安德拉 (停售)",
+            "count": 14
+        }
+    ],
+    "欧拉": [
+        {
+            "series": "欧拉R1",
+            "count": 3
+        },
+        {
+            "series": "欧拉iQ",
+            "count": 3
+        }
+    ],
+    "欧朗": [
+        {
+            "series": "欧朗 (停售)",
+            "count": 10
+        }
+    ],
+    "欧尚汽车": [
+        {
+            "series": "欧尚COS1°(科赛)",
+            "count": 7
+        }
+    ],
+    "Polestar": [
+        {
+            "series": "Polestar 1",
+            "count": 1
+        }
+    ],
+    "帕加尼": [
+        {
+            "series": "Huayra",
+            "count": 1
+        }
+    ],
+    "奇瑞": [
+        {
+            "series": "艾瑞泽5",
+            "count": 29
+        },
+        {
+            "series": "艾瑞泽7",
+            "count": 38
+        },
+        {
+            "series": "艾瑞泽EX",
+            "count": 7
+        },
+        {
+            "series": "艾瑞泽GX",
+            "count": 8
+        },
+        {
+            "series": "瑞虎3",
+            "count": 36
+        },
+        {
+            "series": "瑞虎3x",
+            "count": 19
+        },
+        {
+            "series": "瑞虎5x",
+            "count": 14
+        },
+        {
+            "series": "瑞虎7",
+            "count": 30
+        },
+        {
+            "series": "瑞虎8",
+            "count": 15
+        },
+        {
+            "series": "爱卡",
+            "count": 2
+        },
+        {
+            "series": "奇瑞QQ",
+            "count": 4
+        },
+        {
+            "series": "瑞虎5",
+            "count": 44
+        },
+        {
+            "series": "奇瑞QQ3 (停售)",
+            "count": 70
+        },
+        {
+            "series": "奇瑞QQ6 (停售)",
+            "count": 8
+        },
+        {
+            "series": "奇瑞QQme (停售)",
+            "count": 5
+        },
+        {
+            "series": "旗云1 (停售)",
+            "count": 10
+        },
+        {
+            "series": "风云2 (停售)",
+            "count": 22
+        },
+        {
+            "series": "奇瑞A1 (停售)",
+            "count": 12
+        },
+        {
+            "series": "奇瑞E3 (停售)",
+            "count": 8
+        },
+        {
+            "series": "旗云 (停售)",
+            "count": 34
+        },
+        {
+            "series": "旗云2 (停售)",
+            "count": 8
+        },
+        {
+            "series": "艾瑞泽3 (停售)",
+            "count": 10
+        },
+        {
+            "series": "艾瑞泽7e (停售)",
+            "count": 3
+        },
+        {
+            "series": "风云 (停售)",
+            "count": 4
+        },
+        {
+            "series": "奇瑞A3 (停售)",
+            "count": 33
+        },
+        {
+            "series": "奇瑞A5 (停售)",
+            "count": 18
+        },
+        {
+            "series": "奇瑞E5 (停售)",
+            "count": 14
+        },
+        {
+            "series": "旗云3 (停售)",
+            "count": 6
+        },
+        {
+            "series": "东方之子 (停售)",
+            "count": 43
+        },
+        {
+            "series": "旗云5 (停售)",
+            "count": 5
+        },
+        {
+            "series": "奇瑞X1 (停售)",
+            "count": 14
+        },
+        {
+            "series": "瑞虎 (停售)",
+            "count": 68
+        },
+        {
+            "series": "艾瑞泽M7 (停售)",
+            "count": 10
+        },
+        {
+            "series": "东方之子Cross (停售)",
+            "count": 21
+        },
+        {
+            "series": "奇瑞eQ",
+            "count": 4
+        },
+        {
+            "series": "奇瑞eQ1",
+            "count": 12
+        },
+        {
+            "series": "艾瑞泽5e",
+            "count": 6
+        },
+        {
+            "series": "瑞虎3xe",
+            "count": 6
+        },
+        {
+            "series": "奇瑞QQ3EV (停售)",
+            "count": 6
+        }
+    ],
+    "启辰": [
+        {
+            "series": "启辰T60",
+            "count": 10
+        },
+        {
+            "series": "晨风",
+            "count": 4
+        },
+        {
+            "series": "启辰D60",
+            "count": 17
+        },
+        {
+            "series": "启辰T70",
+            "count": 29
+        },
+        {
+            "series": "启辰T90",
+            "count": 12
+        },
+        {
+            "series": "启辰M50V",
+            "count": 12
+        },
+        {
+            "series": "启辰R30 (停售)",
+            "count": 8
+        },
+        {
+            "series": "启辰D50 (停售)",
+            "count": 20
+        },
+        {
+            "series": "启辰R50 (停售)",
+            "count": 20
+        },
+        {
+            "series": "启辰R50X (停售)",
+            "count": 12
+        },
+        {
+            "series": "启辰T70X (停售)",
+            "count": 6
+        }
+    ],
+    "起亚": [
+        {
+            "series": "起亚KX3新能源",
+            "count": 1
+        },
+        {
+            "series": "KX CROSS",
+            "count": 3
+        },
+        {
+            "series": "焕驰",
+            "count": 5
+        },
+        {
+            "series": "起亚K2",
+            "count": 46
+        },
+        {
+            "series": "福瑞迪",
+            "count": 33
+        },
+        {
+            "series": "起亚K3",
+            "count": 24
+        },
+        {
+            "series": "凯绅",
+            "count": 4
+        },
+        {
+            "series": "起亚K5",
+            "count": 53
+        },
+        {
+            "series": "起亚K5新能源",
+            "count": 2
+        },
+        {
+            "series": "起亚KX3",
+            "count": 20
+        },
+        {
+            "series": "奕跑",
+            "count": 2
+        },
+        {
+            "series": "起亚KX5",
+            "count": 9
+        },
+        {
+            "series": "智跑",
+            "count": 41
+        },
+        {
+            "series": "起亚KX7",
+            "count": 8
+        },
+        {
+            "series": "千里马 (停售)",
+            "count": 20
+        },
+        {
+            "series": "锐欧 (停售)",
+            "count": 7
+        },
+        {
+            "series": "秀尔 (停售)",
+            "count": 16
+        },
+        {
+            "series": "赛拉图 (停售)",
+            "count": 39
+        },
+        {
+            "series": "起亚K3S (停售)",
+            "count": 6
+        },
+        {
+            "series": "起亚K4 (停售)",
+            "count": 20
+        },
+        {
+            "series": "远舰 (停售)",
+            "count": 13
+        },
+        {
+            "series": "狮跑 (停售)",
+            "count": 32
+        },
+        {
+            "series": "嘉华 (停售)",
+            "count": 9
+        },
+        {
+            "series": "起亚K9",
+            "count": 4
+        },
+        {
+            "series": "斯汀格",
+            "count": 2
+        },
+        {
+            "series": "极睿",
+            "count": 3
+        },
+        {
+            "series": "索兰托",
+            "count": 145
+        },
+        {
+            "series": "霸锐",
+            "count": 5
+        },
+        {
+            "series": "佳乐",
+            "count": 26
+        },
+        {
+            "series": "嘉华(进口)",
+            "count": 12
+        },
+        {
+            "series": "起亚K5(进口)",
+            "count": 3
+        },
+        {
+            "series": "凯尊",
+            "count": 19
+        },
+        {
+            "series": "SPORTAGE",
+            "count": 4
+        },
+        {
+            "series": "欧菲莱斯 (停售)",
+            "count": 8
+        },
+        {
+            "series": "起亚VQ (停售)",
+            "count": 6
+        },
+        {
+            "series": "速迈 (停售)",
+            "count": 30
+        }
+    ],
+    "前途": [
+        {
+            "series": "前途K50",
+            "count": 1
+        }
+    ],
+    "乔治·巴顿": [
+        {
+            "series": "战剑",
+            "count": 1
+        },
+        {
+            "series": "战车",
+            "count": 2
+        }
+    ],
+    "庆铃汽车": [
+        {
+            "series": "庆铃TAGA",
+            "count": 5
+        }
+    ],
+    "全球鹰": [
+        {
+            "series": "全球鹰K10",
+            "count": 2
+        },
+        {
+            "series": "全球鹰K11",
+            "count": 2
+        },
+        {
+            "series": "全球鹰K12",
+            "count": 1
+        },
+        {
+            "series": "全球鹰K17",
+            "count": 2
+        },
+        {
+            "series": "全球鹰K27",
+            "count": 4
+        },
+        {
+            "series": "全球鹰EX3",
+            "count": 3
+        }
+    ],
+    "日产": [
+        {
+            "series": "玛驰",
+            "count": 9
+        },
+        {
+            "series": "骊威",
+            "count": 46
+        },
+        {
+            "series": "骐达",
+            "count": 43
+        },
+        {
+            "series": "轩逸",
+            "count": 82
+        },
+        {
+            "series": "阳光",
+            "count": 30
+        },
+        {
+            "series": "LANNIA 蓝鸟",
+            "count": 16
+        },
+        {
+            "series": "轩逸·纯电",
+            "count": 2
+        },
+        {
+            "series": "天籁",
+            "count": 85
+        },
+        {
+            "series": "西玛",
+            "count": 3
+        },
+        {
+            "series": "劲客",
+            "count": 6
+        },
+        {
+            "series": "逍客",
+            "count": 42
+        },
+        {
+            "series": "途达",
+            "count": 6
+        },
+        {
+            "series": "奇骏",
+            "count": 49
+        },
+        {
+            "series": "楼兰",
+            "count": 25
+        },
+        {
+            "series": "颐达 (停售)",
+            "count": 19
+        },
+        {
+            "series": "蓝鸟 (停售)",
+            "count": 9
+        },
+        {
+            "series": "骏逸 (停售)",
+            "count": 6
+        },
+        {
+            "series": "途达",
+            "count": 6
+        },
+        {
+            "series": "日产NV200",
+            "count": 45
+        },
+        {
+            "series": "纳瓦拉",
+            "count": 8
+        },
+        {
+            "series": "日产D22",
+            "count": 12
+        },
+        {
+            "series": "日产ZN厢式车",
+            "count": 16
+        },
+        {
+            "series": "帕拉丁 (停售)",
+            "count": 38
+        },
+        {
+            "series": "途乐",
+            "count": 9
+        },
+        {
+            "series": "贵士",
+            "count": 5
+        },
+        {
+            "series": "日产370Z",
+            "count": 4
+        },
+        {
+            "series": "日产GT-R",
+            "count": 16
+        },
+        {
+            "series": "碧莲",
+            "count": 3
+        },
+        {
+            "series": "奇骏(进口)",
+            "count": 3
+        },
+        {
+            "series": "楼兰(海外)",
+            "count": 1
+        },
+        {
+            "series": "风度 (停售)",
+            "count": 2
+        },
+        {
+            "series": "风雅 (停售)",
+            "count": 6
+        },
+        {
+            "series": "CIMA (停售)",
+            "count": 1
+        },
+        {
+            "series": "日产350Z (停售)",
+            "count": 2
+        }
+    ],
+    "荣威": [
+        {
+            "series": "荣威360",
+            "count": 23
+        },
+        {
+            "series": "荣威Ei5",
+            "count": 2
+        },
+        {
+            "series": "荣威ei6",
+            "count": 3
+        },
+        {
+            "series": "荣威i5",
+            "count": 9
+        },
+        {
+            "series": "荣威i6",
+            "count": 18
+        },
+        {
+            "series": "荣威950",
+            "count": 14
+        },
+        {
+            "series": "荣威e950",
+            "count": 3
+        },
+        {
+            "series": "荣威RX3",
+            "count": 9
+        },
+        {
+            "series": "荣威RX5",
+            "count": 34
+        },
+        {
+            "series": "荣威RX5新能源",
+            "count": 6
+        },
+        {
+            "series": "荣威MARVEL X",
+            "count": 3
+        },
+        {
+            "series": "荣威RX8",
+            "count": 8
+        },
+        {
+            "series": "荣威e50",
+            "count": 2
+        },
+        {
+            "series": "荣威350",
+            "count": 33
+        },
+        {
+            "series": "荣威550",
+            "count": 47
+        },
+        {
+            "series": "荣威e550",
+            "count": 3
+        },
+        {
+            "series": "荣威W5",
+            "count": 14
+        },
+        {
+            "series": "荣威750 (停售)",
+            "count": 30
+        }
+    ],
+    "容大智造": [
+        {
+            "series": "迈图",
+            "count": 2
+        }
+    ],
+    "如虎": [
+        {
+            "series": "如虎 XL",
+            "count": 1
+        },
+        {
+            "series": "如虎 CTR 3",
+            "count": 1
+        }
+    ],
+    "瑞驰新能源": [
+        {
+            "series": "瑞驰新能源EC35",
+            "count": 1
+        },
+        {
+            "series": "瑞驰新能源EK05",
+            "count": 1
+        }
+    ],
+    "瑞麒": [
+        {
+            "series": "瑞麒M1 (停售)",
+            "count": 22
+        },
+        {
+            "series": "瑞麒M5 (停售)",
+            "count": 3
+        },
+        {
+            "series": "瑞麒G3 (停售)",
+            "count": 7
+        },
+        {
+            "series": "瑞麒G5 (停售)",
+            "count": 15
+        },
+        {
+            "series": "瑞麒G6 (停售)",
+            "count": 3
+        }
+    ],
+    "smart": [
+        {
+            "series": "smart fortwo",
+            "count": 92
+        },
+        {
+            "series": "smart forfour",
+            "count": 11
+        },
+        {
+            "series": "smart forjeremy",
+            "count": 1
+        },
+        {
+            "series": "smart fortwo新能源",
+            "count": 1
+        }
+    ],
+    "SWM斯威汽车": [
+        {
+            "series": "SWM斯威G01",
+            "count": 15
+        },
+        {
+            "series": "SWM斯威X3",
+            "count": 11
+        },
+        {
+            "series": "SWM斯威X7",
+            "count": 30
+        }
+    ],
+    "萨博": [
+        {
+            "series": "Saab 9-3",
+            "count": 11
+        },
+        {
+            "series": "Saab 9-5 (停售)",
+            "count": 4
+        }
+    ],
+    "赛麟": [
+        {
+            "series": "赛麟科迈罗",
+            "count": 5
+        },
+        {
+            "series": "赛麟Mustang (停售)",
+            "count": 9
+        }
+    ],
+    "三菱": [
+        {
+            "series": "欧蓝德经典 (停售)",
+            "count": 14
+        },
+        {
+            "series": "帕杰罗速跑 (停售)",
+            "count": 5
+        },
+        {
+            "series": "风迪思 (停售)",
+            "count": 8
+        },
+        {
+            "series": "蓝瑟 (停售)",
+            "count": 20
+        },
+        {
+            "series": "翼神 (停售)",
+            "count": 54
+        },
+        {
+            "series": "三菱戈蓝 (停售)",
+            "count": 13
+        },
+        {
+            "series": "君阁 (停售)",
+            "count": 12
+        },
+        {
+            "series": "菱绅 (停售)",
+            "count": 15
+        },
+        {
+            "series": "奕歌",
+            "count": 5
+        },
+        {
+            "series": "劲炫ASX",
+            "count": 18
+        },
+        {
+            "series": "欧蓝德",
+            "count": 11
+        },
+        {
+            "series": "帕杰罗·劲畅",
+            "count": 4
+        },
+        {
+            "series": "帕杰罗 (停售)",
+            "count": 23
+        },
+        {
+            "series": "帕杰罗(进口)",
+            "count": 48
+        },
+        {
+            "series": "LANCER",
+            "count": 7
+        },
+        {
+            "series": "ASX劲炫(进口)",
+            "count": 9
+        },
+        {
+            "series": "欧蓝德(进口)",
+            "count": 42
+        },
+        {
+            "series": "帕杰罗·劲畅(进口)",
+            "count": 2
+        },
+        {
+            "series": "格蓝迪 (停售)",
+            "count": 9
+        },
+        {
+            "series": "伊柯丽斯 (停售)",
+            "count": 4
+        }
+    ],
+    "陕汽通家": [
+        {
+            "series": "福家",
+            "count": 18
+        },
+        {
+            "series": "龙锐",
+            "count": 8
+        }
+    ],
+    "上汽大通": [
+        {
+            "series": "上汽大通D90",
+            "count": 9
+        },
+        {
+            "series": "上汽大通EG10",
+            "count": 6
+        },
+        {
+            "series": "上汽大通G10",
+            "count": 43
+        },
+        {
+            "series": "上汽大通V80",
+            "count": 280
+        },
+        {
+            "series": "上汽大通T60",
+            "count": 96
+        },
+        {
+            "series": "伊思坦纳 (停售)",
+            "count": 11
+        }
+    ],
+    "世爵": [
+        {
+            "series": "世爵C8",
+            "count": 1
+        }
+    ],
+    "双环": [
+        {
+            "series": "小贵族 (停售)",
+            "count": 8
+        },
+        {
+            "series": "来宝SRV (停售)",
+            "count": 4
+        },
+        {
+            "series": "双环SCEO (停售)",
+            "count": 70
+        }
+    ],
+    "双龙": [
+        {
+            "series": "主席",
+            "count": 8
+        },
+        {
+            "series": "蒂维拉",
+            "count": 6
+        },
+        {
+            "series": "柯兰多",
+            "count": 28
+        },
+        {
+            "series": "爱腾",
+            "count": 37
+        },
+        {
+            "series": "雷斯特W",
+            "count": 6
+        },
+        {
+            "series": "路帝",
+            "count": 10
+        },
+        {
+            "series": "途凌",
+            "count": 16
+        },
+        {
+            "series": "雷斯特",
+            "count": 12
+        },
+        {
+            "series": "享御 (停售)",
+            "count": 16
+        }
+    ],
+    "思铭": [
+        {
+            "series": "思铭 (停售)",
+            "count": 5
+        }
+    ],
+    "斯巴鲁": [
+        {
+            "series": "力狮",
+            "count": 39
+        },
+        {
+            "series": "斯巴鲁XV",
+            "count": 39
+        },
+        {
+            "series": "森林人",
+            "count": 93
+        },
+        {
+            "series": "傲虎",
+            "count": 50
+        },
+        {
+            "series": "翼豹",
+            "count": 23
+        },
+        {
+            "series": "斯巴鲁BRZ",
+            "count": 10
+        },
+        {
+            "series": "驰鹏 (停售)",
+            "count": 3
+        }
+    ],
+    "斯达泰克": [
+        {
+            "series": "斯达泰克-卫士",
+            "count": 2
+        },
+        {
+            "series": "斯达泰克-揽胜 (停售)",
+            "count": 7
+        },
+        {
+            "series": "斯达泰克-揽胜运动版 (停售)",
+            "count": 4
+        }
+    ],
+    "斯柯达": [
+        {
+            "series": "柯迪亚克GT",
+            "count": 2
+        },
+        {
+            "series": "晶锐",
+            "count": 56
+        },
+        {
+            "series": "明锐",
+            "count": 138
+        },
+        {
+            "series": "昕动",
+            "count": 29
+        },
+        {
+            "series": "昕锐",
+            "count": 35
+        },
+        {
+            "series": "速派",
+            "count": 27
+        },
+        {
+            "series": "柯米克",
+            "count": 4
+        },
+        {
+            "series": "柯珞克",
+            "count": 4
+        },
+        {
+            "series": "柯迪亚克",
+            "count": 19
+        },
+        {
+            "series": "Yeti",
+            "count": 23
+        },
+        {
+            "series": "昊锐 (停售)",
+            "count": 22
+        },
+        {
+            "series": "明锐(进口)",
+            "count": 2
+        },
+        {
+            "series": "速派(进口)",
+            "count": 4
+        },
+        {
+            "series": "速尊",
+            "count": 2
+        },
+        {
+            "series": "Yeti(进口)",
+            "count": 2
+        }
+    ],
+    "泰卡特": [
+        {
+            "series": "泰卡特 T9",
+            "count": 1
+        },
+        {
+            "series": "泰卡特 T7 (停售)",
+            "count": 3
+        },
+        {
+            "series": "泰卡特 T1 (停售)",
+            "count": 1
+        },
+        {
+            "series": "泰卡特 T2 (停售)",
+            "count": 1
+        },
+        {
+            "series": "泰卡特 T3 (停售)",
+            "count": 1
+        }
+    ],
+    "特斯拉": [
+        {
+            "series": "Model 3",
+            "count": 1
+        },
+        {
+            "series": "Model S",
+            "count": 28
+        },
+        {
+            "series": "Model X",
+            "count": 7
+        }
+    ],
+    "腾势": [
+        {
+            "series": "腾势",
+            "count": 7
+        }
+    ],
+    "WEY": [
+        {
+            "series": "WEY VV5",
+            "count": 5
+        },
+        {
+            "series": "WEY VV6",
+            "count": 5
+        },
+        {
+            "series": "WEY P8",
+            "count": 3
+        },
+        {
+            "series": "WEY VV7",
+            "count": 6
+        }
+    ],
+    "威麟": [
+        {
+            "series": "威麟X5 (停售)",
+            "count": 8
+        },
+        {
+            "series": "威麟V5 (停售)",
+            "count": 15
+        },
+        {
+            "series": "威麟H5",
+            "count": 8
+        },
+        {
+            "series": "威麟H6",
+            "count": 4
+        },
+        {
+            "series": "威麟H3 (停售)",
+            "count": 1
+        }
+    ],
+    "威马汽车": [
+        {
+            "series": "威马EX5",
+            "count": 8
+        }
+    ],
+    "威兹曼": [
+        {
+            "series": "威兹曼GT",
+            "count": 4
+        },
+        {
+            "series": "威兹曼Roadster (停售)",
+            "count": 3
+        }
+    ],
+    "潍柴英致": [
+        {
+            "series": "英致EX1",
+            "count": 1
+        },
+        {
+            "series": "英致G3",
+            "count": 14
+        },
+        {
+            "series": "英致G5",
+            "count": 9
+        },
+        {
+            "series": "英致727",
+            "count": 5
+        },
+        {
+            "series": "英致737",
+            "count": 11
+        },
+        {
+            "series": "英致737EV",
+            "count": 2
+        }
+    ],
+    "蔚来": [
+        {
+            "series": "蔚来EP9",
+            "count": 1
+        },
+        {
+            "series": "蔚来ES8",
+            "count": 2
+        }
+    ],
+    "沃尔沃": [
+        {
+            "series": "沃尔沃S40 (停售)",
+            "count": 19
+        },
+        {
+            "series": "沃尔沃S80L (停售)",
+            "count": 27
+        },
+        {
+            "series": "沃尔沃S60L",
+            "count": 30
+        },
+        {
+            "series": "沃尔沃S60L新能源",
+            "count": 4
+        },
+        {
+            "series": "沃尔沃S90",
+            "count": 15
+        },
+        {
+            "series": "沃尔沃S90新能源",
+            "count": 3
+        },
+        {
+            "series": "沃尔沃XC60",
+            "count": 35
+        },
+        {
+            "series": "沃尔沃XC60新能源",
+            "count": 4
+        },
+        {
+            "series": "XC Classic (停售)",
+            "count": 2
+        },
+        {
+            "series": "沃尔沃V40",
+            "count": 41
+        },
+        {
+            "series": "沃尔沃S60",
+            "count": 31
+        },
+        {
+            "series": "沃尔沃V60",
+            "count": 32
+        },
+        {
+            "series": "沃尔沃V90",
+            "count": 5
+        },
+        {
+            "series": "沃尔沃XC40",
+            "count": 5
+        },
+        {
+            "series": "沃尔沃XC90",
+            "count": 65
+        },
+        {
+            "series": "沃尔沃XC90新能源",
+            "count": 13
+        },
+        {
+            "series": "沃尔沃S80",
+            "count": 10
+        },
+        {
+            "series": "沃尔沃S90(进口)",
+            "count": 2
+        },
+        {
+            "series": "沃尔沃XC60(进口)",
+            "count": 45
+        },
+        {
+            "series": "沃尔沃C30 (停售)",
+            "count": 21
+        },
+        {
+            "series": "沃尔沃S40(进口) (停售)",
+            "count": 4
+        },
+        {
+            "series": "沃尔沃C70 (停售)",
+            "count": 5
+        }
+    ],
+    "五菱汽车": [
+        {
+            "series": "五菱宏光S3",
+            "count": 5
+        },
+        {
+            "series": "五菱宏光",
+            "count": 44
+        },
+        {
+            "series": "五菱荣光",
+            "count": 17
+        },
+        {
+            "series": "五菱荣光V",
+            "count": 16
+        },
+        {
+            "series": "五菱之光",
+            "count": 32
+        },
+        {
+            "series": "五菱之光V",
+            "count": 5
+        },
+        {
+            "series": "PN货车",
+            "count": 2
+        },
+        {
+            "series": "五菱荣光小卡",
+            "count": 8
+        },
+        {
+            "series": "五菱荣光新卡",
+            "count": 4
+        },
+        {
+            "series": "五菱之光小卡",
+            "count": 2
+        },
+        {
+            "series": "五菱征程 (停售)",
+            "count": 3
+        }
+    ],
+    "五十铃": [
+        {
+            "series": "mu-X牧游侠",
+            "count": 53
+        },
+        {
+            "series": "D-MAX",
+            "count": 16
+        },
+        {
+            "series": "铃拓",
+            "count": 8
+        },
+        {
+            "series": "瑞迈",
+            "count": 42
+        },
+        {
+            "series": "竞技者",
+            "count": 1
+        },
+        {
+            "series": "五十铃皮卡",
+            "count": 18
+        }
+    ],
+    "西雅特": [
+        {
+            "series": "伊比飒",
+            "count": 4
+        },
+        {
+            "series": "LEON",
+            "count": 3
+        },
+        {
+            "series": "欧悦搏",
+            "count": 6
+        }
+    ],
+    "现代": [
+        {
+            "series": "瑞纳",
+            "count": 44
+        },
+        {
+            "series": "悦纳",
+            "count": 6
+        },
+        {
+            "series": "悦纳RV",
+            "count": 5
+        },
+        {
+            "series": "悦动",
+            "count": 36
+        },
+        {
+            "series": "菲斯塔",
+            "count": 10
+        },
+        {
+            "series": "领动",
+            "count": 12
+        },
+        {
+            "series": "伊兰特EV",
+            "count": 2
+        },
+        {
+            "series": "逸行",
+            "count": 4
+        },
+        {
+            "series": "名图",
+            "count": 18
+        },
+        {
+            "series": "索纳塔插电混动",
+            "count": 3
+        },
+        {
+            "series": "索纳塔九",
+            "count": 25
+        },
+        {
+            "series": "ENCINO 昂希诺",
+            "count": 4
+        },
+        {
+            "series": "北京现代ix25",
+            "count": 13
+        },
+        {
+            "series": "途胜",
+            "count": 25
+        },
+        {
+            "series": "北京现代ix35",
+            "count": 49
+        },
+        {
+            "series": "全新胜达",
+            "count": 31
+        },
+        {
+            "series": "瑞奕",
+            "count": 10
+        },
+        {
+            "series": "朗动",
+            "count": 20
+        },
+        {
+            "series": "雅绅特 (停售)",
+            "count": 20
+        },
+        {
+            "series": "北京现代i30 (停售)",
+            "count": 8
+        },
+        {
+            "series": "伊兰特 (停售)",
+            "count": 23
+        },
+        {
+            "series": "领翔 (停售)",
+            "count": 9
+        },
+        {
+            "series": "名驭 (停售)",
+            "count": 9
+        },
+        {
+            "series": "索纳塔 (停售)",
+            "count": 16
+        },
+        {
+            "series": "索纳塔八 (停售)",
+            "count": 37
+        },
+        {
+            "series": "御翔 (停售)",
+            "count": 6
+        },
+        {
+            "series": "康恩迪",
+            "count": 2
+        },
+        {
+            "series": "Veloster飞思",
+            "count": 13
+        },
+        {
+            "series": "雅尊",
+            "count": 13
+        },
+        {
+            "series": "捷恩斯",
+            "count": 12
+        },
+        {
+            "series": "雅科仕",
+            "count": 24
+        },
+        {
+            "series": "格越",
+            "count": 59
+        },
+        {
+            "series": "H-1辉翼",
+            "count": 3
+        },
+        {
+            "series": "索纳塔(进口)",
+            "count": 1
+        },
+        {
+            "series": "途胜(进口)",
+            "count": 2
+        },
+        {
+            "series": "全新胜达(进口)",
+            "count": 29
+        },
+        {
+            "series": "新胜达(进口)",
+            "count": 20
+        },
+        {
+            "series": "君爵 (停售)",
+            "count": 2
+        },
+        {
+            "series": "劳恩斯 (停售)",
+            "count": 9
+        },
+        {
+            "series": "维拉克斯 (停售)",
+            "count": 6
+        },
+        {
+            "series": "美佳 (停售)",
+            "count": 3
+        },
+        {
+            "series": "酷派 (停售)",
+            "count": 4
+        },
+        {
+            "series": "劳恩斯-酷派 (停售)",
+            "count": 10
+        }
+    ],
+    "小鹏汽车": [
+        {
+            "series": "小鹏汽车G3",
+            "count": 2
+        }
+    ],
+    "新凯": [
+        {
+            "series": "新凯V-Class",
+            "count": 2
+        },
+        {
+            "series": "新凯凌特",
+            "count": 1
+        },
+        {
+            "series": "新凯威霆",
+            "count": 2
+        },
+        {
+            "series": "凯胜 (停售)",
+            "count": 3
+        }
+    ],
+    "新特汽车": [
+        {
+            "series": "SITECH DEV 1",
+            "count": 4
+        }
+    ],
+    "鑫源": [
+        {
+            "series": "好运1号",
+            "count": 4
+        },
+        {
+            "series": "鑫源X30L",
+            "count": 6
+        },
+        {
+            "series": "鑫源X30LEV",
+            "count": 3
+        },
+        {
+            "series": "鑫源T20EV",
+            "count": 4
+        }
+    ],
+    "雪佛兰": [
+        {
+            "series": "赛欧",
+            "count": 57
+        },
+        {
+            "series": "乐风RV",
+            "count": 9
+        },
+        {
+            "series": "科鲁兹",
+            "count": 89
+        },
+        {
+            "series": "科沃兹",
+            "count": 19
+        },
+        {
+            "series": "沃兰多",
+            "count": 4
+        },
+        {
+            "series": "迈锐宝",
+            "count": 33
+        },
+        {
+            "series": "迈锐宝XL",
+            "count": 24
+        },
+        {
+            "series": "创酷",
+            "count": 17
+        },
+        {
+            "series": "探界者",
+            "count": 20
+        },
+        {
+            "series": "科帕奇",
+            "count": 17
+        },
+        {
+            "series": "爱唯欧 (停售)",
+            "count": 30
+        },
+        {
+            "series": "乐骋 (停售)",
+            "count": 23
+        },
+        {
+            "series": "乐风 (停售)",
+            "count": 26
+        },
+        {
+            "series": "景程 (停售)",
+            "count": 40
+        },
+        {
+            "series": "科迈罗",
+            "count": 6
+        },
+        {
+            "series": "库罗德",
+            "count": 3
+        },
+        {
+            "series": "索罗德",
+            "count": 4
+        },
+        {
+            "series": "斯帕可",
+            "count": 2
+        },
+        {
+            "series": "沃蓝达",
+            "count": 1
+        },
+        {
+            "series": "科帕奇(进口)",
+            "count": 11
+        }
+    ],
+    "雪铁龙": [
+        {
+            "series": "雪铁龙C4L",
+            "count": 42
+        },
+        {
+            "series": "爱丽舍",
+            "count": 74
+        },
+        {
+            "series": "C4世嘉",
+            "count": 18
+        },
+        {
+            "series": "雪铁龙C5",
+            "count": 51
+        },
+        {
+            "series": "雪铁龙C6",
+            "count": 12
+        },
+        {
+            "series": "雪铁龙C3-XR",
+            "count": 24
+        },
+        {
+            "series": "云逸 C4 AIRCROSS",
+            "count": 7
+        },
+        {
+            "series": "天逸 C5 AIRCROSS",
+            "count": 15
+        },
+        {
+            "series": "雪铁龙C2 (停售)",
+            "count": 23
+        },
+        {
+            "series": "世嘉 (停售)",
+            "count": 92
+        },
+        {
+            "series": "富康 (停售)",
+            "count": 10
+        },
+        {
+            "series": "凯旋 (停售)",
+            "count": 15
+        },
+        {
+            "series": "赛纳 (停售)",
+            "count": 8
+        },
+        {
+            "series": "毕加索 (停售)",
+            "count": 7
+        },
+        {
+            "series": "雪铁龙C4 Aircross(进口)",
+            "count": 9
+        },
+        {
+            "series": "C4 PICASSO",
+            "count": 7
+        },
+        {
+            "series": "雪铁龙C3",
+            "count": 1
+        },
+        {
+            "series": "雪铁龙C4",
+            "count": 6
+        },
+        {
+            "series": "雪铁龙C5(进口)",
+            "count": 12
+        },
+        {
+            "series": "雪铁龙C6(进口) (停售)",
+            "count": 3
+        }
+    ],
+    "野马汽车": [
+        {
+            "series": "野马T70",
+            "count": 29
+        },
+        {
+            "series": "野马T80",
+            "count": 14
+        },
+        {
+            "series": "野马U能E350",
+            "count": 2
+        },
+        {
+            "series": "斯派卡",
+            "count": 3
+        },
+        {
+            "series": "野马EC30",
+            "count": 1
+        },
+        {
+            "series": "野马F10 (停售)",
+            "count": 6
+        },
+        {
+            "series": "野马F12 (停售)",
+            "count": 4
+        },
+        {
+            "series": "野马F16 (停售)",
+            "count": 3
+        },
+        {
+            "series": "野马F99 (停售)",
+            "count": 9
+        }
+    ],
+    "一汽": [
+        {
+            "series": "威志V5",
+            "count": 16
+        },
+        {
+            "series": "夏利N5",
+            "count": 17
+        },
+        {
+            "series": "夏利N7",
+            "count": 10
+        },
+        {
+            "series": "骏派A50",
+            "count": 6
+        },
+        {
+            "series": "骏派A70",
+            "count": 6
+        },
+        {
+            "series": "骏派A70E",
+            "count": 2
+        },
+        {
+            "series": "骏派CX65",
+            "count": 4
+        },
+        {
+            "series": "骏派D60",
+            "count": 23
+        },
+        {
+            "series": "骏派D80",
+            "count": 7
+        },
+        {
+            "series": "威乐 (停售)",
+            "count": 7
+        },
+        {
+            "series": "威志 (停售)",
+            "count": 19
+        },
+        {
+            "series": "威志V2 (停售)",
+            "count": 5
+        },
+        {
+            "series": "威姿 (停售)",
+            "count": 7
+        },
+        {
+            "series": "夏利 (停售)",
+            "count": 45
+        },
+        {
+            "series": "蓝舰T340",
+            "count": 8
+        },
+        {
+            "series": "森雅R7",
+            "count": 34
+        },
+        {
+            "series": "森雅R9",
+            "count": 8
+        },
+        {
+            "series": "佳宝V52",
+            "count": 4
+        },
+        {
+            "series": "佳宝V55",
+            "count": 1
+        },
+        {
+            "series": "佳宝V75",
+            "count": 2
+        },
+        {
+            "series": "佳宝V77",
+            "count": 3
+        },
+        {
+            "series": "佳宝V80",
+            "count": 15
+        },
+        {
+            "series": "佳宝T50",
+            "count": 2
+        },
+        {
+            "series": "佳宝T51",
+            "count": 1
+        },
+        {
+            "series": "佳宝T57",
+            "count": 2
+        },
+        {
+            "series": "解放T80",
+            "count": 9
+        },
+        {
+            "series": "森雅S80 (停售)",
+            "count": 48
+        },
+        {
+            "series": "森雅M80 (停售)",
+            "count": 22
+        },
+        {
+            "series": "佳宝V70 (停售)",
+            "count": 4
+        },
+        {
+            "series": "佳宝V70 II代 (停售)",
+            "count": 6
+        },
+        {
+            "series": "坤程",
+            "count": 7
+        }
+    ],
+    "依维柯": [
+        {
+            "series": "依维柯Daily(欧胜)",
+            "count": 18
+        },
+        {
+            "series": "依维柯Ouba",
+            "count": 17
+        },
+        {
+            "series": "依维柯Venice",
+            "count": 4
+        },
+        {
+            "series": "依维柯褒迪Power Daily",
+            "count": 87
+        },
+        {
+            "series": "依维柯得意",
+            "count": 23
+        },
+        {
+            "series": "都灵 (停售)",
+            "count": 8
+        }
+    ],
+    "英菲尼迪": [
+        {
+            "series": "英菲尼迪Q50L",
+            "count": 17
+        },
+        {
+            "series": "英菲尼迪QX50",
+            "count": 10
+        },
+        {
+            "series": "英菲尼迪Q50",
+            "count": 9
+        },
+        {
+            "series": "英菲尼迪Q70",
+            "count": 22
+        },
+        {
+            "series": "英菲尼迪ESQ",
+            "count": 3
+        },
+        {
+            "series": "英菲尼迪QX30",
+            "count": 11
+        },
+        {
+            "series": "英菲尼迪QX60",
+            "count": 9
+        },
+        {
+            "series": "英菲尼迪QX70",
+            "count": 6
+        },
+        {
+            "series": "英菲尼迪QX80",
+            "count": 2
+        },
+        {
+            "series": "英菲尼迪Q60",
+            "count": 5
+        },
+        {
+            "series": "英菲尼迪QX50(进口)",
+            "count": 5
+        },
+        {
+            "series": "英菲尼迪G系 (停售)",
+            "count": 20
+        },
+        {
+            "series": "英菲尼迪M系 (停售)",
+            "count": 13
+        },
+        {
+            "series": "英菲尼迪EX (停售)",
+            "count": 15
+        },
+        {
+            "series": "英菲尼迪FX (停售)",
+            "count": 23
+        },
+        {
+            "series": "英菲尼迪JX (停售)",
+            "count": 2
+        },
+        {
+            "series": "英菲尼迪QX (停售)",
+            "count": 4
+        },
+        {
+            "series": "英菲尼迪Q60S (停售)",
+            "count": 1
+        }
+    ],
+    "永源": [
+        {
+            "series": "永源五星",
+            "count": 3
+        },
+        {
+            "series": "猎鹰 (停售)",
+            "count": 15
+        },
+        {
+            "series": "永源A380 (停售)",
+            "count": 64
+        }
+    ],
+    "宇通客车": [
+        {
+            "series": "宇通CL6",
+            "count": 2
+        },
+        {
+            "series": "宇通T7",
+            "count": 6
+        }
+    ],
+    "驭胜": [
+        {
+            "series": "驭胜S350",
+            "count": 78
+        },
+        {
+            "series": "驭胜S330",
+            "count": 9
+        }
+    ],
+    "御捷": [
+        {
+            "series": "御捷E驰 (停售)",
+            "count": 1
+        }
+    ],
+    "裕路": [
+        {
+            "series": "裕路EV2",
+            "count": 2
+        }
+    ],
+    "云度": [
+        {
+            "series": "云度π1",
+            "count": 8
+        },
+        {
+            "series": "云度π3",
+            "count": 7
+        }
+    ],
+    "云雀汽车": [
+        {
+            "series": "云雀Q1",
+            "count": 4
+        }
+    ],
+    "之诺": [
+        {
+            "series": "之诺1E",
+            "count": 1
+        },
+        {
+            "series": "之诺60H",
+            "count": 1
+        }
+    ],
+    "知豆": [
+        {
+            "series": "知豆D2",
+            "count": 8
+        },
+        {
+            "series": "知豆D3",
+            "count": 3
+        },
+        {
+            "series": "知豆 (停售)",
+            "count": 1
+        },
+        {
+            "series": "知豆D1 (停售)",
+            "count": 2
+        }
+    ],
+    "中华": [
+        {
+            "series": "中华H230EV",
+            "count": 2
+        },
+        {
+            "series": "中华H3",
+            "count": 6
+        },
+        {
+            "series": "中华H530",
+            "count": 25
+        },
+        {
+            "series": "中华V3",
+            "count": 35
+        },
+        {
+            "series": "中华V5",
+            "count": 27
+        },
+        {
+            "series": "中华V6",
+            "count": 8
+        },
+        {
+            "series": "中华V7",
+            "count": 11
+        },
+        {
+            "series": "中华豚",
+            "count": 3
+        },
+        {
+            "series": "中华H220",
+            "count": 6
+        },
+        {
+            "series": "中华H230",
+            "count": 6
+        },
+        {
+            "series": "中华H330",
+            "count": 5
+        },
+        {
+            "series": "中华H320 (停售)",
+            "count": 4
+        },
+        {
+            "series": "中华骏捷Cross (停售)",
+            "count": 12
+        },
+        {
+            "series": "中华骏捷FRV (停售)",
+            "count": 14
+        },
+        {
+            "series": "中华骏捷FSV (停售)",
+            "count": 23
+        },
+        {
+            "series": "中华骏捷 (停售)",
+            "count": 47
+        },
+        {
+            "series": "中华尊驰 (停售)",
+            "count": 49
+        },
+        {
+            "series": "中华酷宝 (停售)",
+            "count": 4
+        }
+    ],
+    "中兴": [
+        {
+            "series": "中兴C3 (停售)",
+            "count": 3
+        },
+        {
+            "series": "中兴GX3 (停售)",
+            "count": 3
+        },
+        {
+            "series": "领主",
+            "count": 60
+        },
+        {
+            "series": "威虎",
+            "count": 66
+        },
+        {
+            "series": "小老虎",
+            "count": 16
+        },
+        {
+            "series": "无限 (停售)",
+            "count": 2
+        },
+        {
+            "series": "无限V3 (停售)",
+            "count": 5
+        },
+        {
+            "series": "无限V5 (停售)",
+            "count": 8
+        },
+        {
+            "series": "无限V7 (停售)",
+            "count": 2
+        },
+        {
+            "series": "昌铃 (停售)",
+            "count": 3
+        },
+        {
+            "series": "旗舰A9 (停售)",
+            "count": 4
+        },
+        {
+            "series": "威虎G3 (停售)",
+            "count": 21
+        }
+    ],
+    "众泰": [
+        {
+            "series": "云100",
+            "count": 5
+        },
+        {
+            "series": "芝麻",
+            "count": 4
+        },
+        {
+            "series": "众泰E200",
+            "count": 4
+        },
+        {
+            "series": "众泰Z360",
+            "count": 6
+        },
+        {
+            "series": "众泰Z500EV",
+            "count": 2
+        },
+        {
+            "series": "众泰Z560",
+            "count": 14
+        },
+        {
+            "series": "众泰Z700",
+            "count": 14
+        },
+        {
+            "series": "众泰T300",
+            "count": 24
+        },
+        {
+            "series": "众泰T300新能源",
+            "count": 3
+        },
+        {
+            "series": "大迈X5",
+            "count": 52
+        },
+        {
+            "series": "众泰SR7",
+            "count": 25
+        },
+        {
+            "series": "众泰T500",
+            "count": 10
+        },
+        {
+            "series": "大迈X7",
+            "count": 22
+        },
+        {
+            "series": "众泰SR9",
+            "count": 12
+        },
+        {
+            "series": "众泰T600",
+            "count": 62
+        },
+        {
+            "series": "众泰T600 Coupe",
+            "count": 11
+        },
+        {
+            "series": "众泰T700",
+            "count": 18
+        },
+        {
+            "series": "众泰T800",
+            "count": 10
+        },
+        {
+            "series": "众泰V10",
+            "count": 6
+        },
+        {
+            "series": "江南T11 (停售)",
+            "count": 1
+        },
+        {
+            "series": "江南TT (停售)",
+            "count": 3
+        },
+        {
+            "series": "众泰Z100 (停售)",
+            "count": 3
+        },
+        {
+            "series": "众泰Z200 (停售)",
+            "count": 11
+        },
+        {
+            "series": "众泰Z200HB (停售)",
+            "count": 12
+        },
+        {
+            "series": "众泰Z300 (停售)",
+            "count": 27
+        },
+        {
+            "series": "众泰Z500 (停售)",
+            "count": 13
+        },
+        {
+            "series": "众泰2008 (停售)",
+            "count": 17
+        },
+        {
+            "series": "众泰5008 (停售)",
+            "count": 16
+        },
+        {
+            "series": "众泰T200 (停售)",
+            "count": 5
+        },
+        {
+            "series": "众泰M300 (停售)",
+            "count": 9
+        }
+    ]
+}

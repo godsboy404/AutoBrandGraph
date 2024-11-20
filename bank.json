@@ -1,0 +1,830 @@
+{
+    "AC Schnitzer": {
+        "count": "2",
+        "url": "https://car.autohome.com.cn//price/brand-117.html"
+    },
+    "ALPINA": {
+        "count": "1",
+        "url": "https://car.autohome.com.cn//price/brand-276.html"
+    },
+    "阿尔法·罗密欧": {
+        "count": "16",
+        "url": "https://car.autohome.com.cn//price/brand-34.html"
+    },
+    "阿斯顿·马丁": {
+        "count": "74",
+        "url": "https://car.autohome.com.cn//price/brand-35.html"
+    },
+    "奥迪": {
+        "count": "913",
+        "url": "https://car.autohome.com.cn//price/brand-33.html"
+    },
+    "巴博斯": {
+        "count": "16",
+        "url": "https://car.autohome.com.cn//price/brand-140.html"
+    },
+    "宝骏": {
+        "count": "194",
+        "url": "https://car.autohome.com.cn//price/brand-120.html"
+    },
+    "宝马": {
+        "count": "951",
+        "url": "https://car.autohome.com.cn//price/brand-15.html"
+    },
+    "宝骐汽车": {
+        "count": "1",
+        "url": "https://car.autohome.com.cn//price/brand-351.html"
+    },
+    "宝沃": {
+        "count": "57",
+        "url": "https://car.autohome.com.cn//price/brand-231.html"
+    },
+    "保时捷": {
+        "count": "241",
+        "url": "https://car.autohome.com.cn//price/brand-40.html"
+    },
+    "北京": {
+        "count": "63",
+        "url": "https://car.autohome.com.cn//price/brand-27.html"
+    },
+    "北京清行": {
+        "count": "2",
+        "url": "https://car.autohome.com.cn//price/brand-333.html"
+    },
+    "北汽昌河": {
+        "count": "141",
+        "url": "https://car.autohome.com.cn//price/brand-79.html"
+    },
+    "北汽道达": {
+        "count": "3",
+        "url": "https://car.autohome.com.cn//price/brand-301.html"
+    },
+    "北汽幻速": {
+        "count": "99",
+        "url": "https://car.autohome.com.cn//price/brand-203.html"
+    },
+    "北汽绅宝": {
+        "count": "109",
+        "url": "https://car.autohome.com.cn//price/brand-173.html"
+    },
+    "北汽威旺": {
+        "count": "135",
+        "url": "https://car.autohome.com.cn//price/brand-143.html"
+    },
+    "北汽新能源": {
+        "count": "39",
+        "url": "https://car.autohome.com.cn//price/brand-208.html"
+    },
+    "北汽制造": {
+        "count": "109",
+        "url": "https://car.autohome.com.cn//price/brand-154.html"
+    },
+    "奔驰": {
+        "count": "986",
+        "url": "https://car.autohome.com.cn//price/brand-36.html"
+    },
+    "奔腾": {
+        "count": "226",
+        "url": "https://car.autohome.com.cn//price/brand-95.html"
+    },
+    "本田": {
+        "count": "525",
+        "url": "https://car.autohome.com.cn//price/brand-14.html"
+    },
+    "比速汽车": {
+        "count": "20",
+        "url": "https://car.autohome.com.cn//price/brand-271.html"
+    },
+    "比亚迪": {
+        "count": "495",
+        "url": "https://car.autohome.com.cn//price/brand-75.html"
+    },
+    "标致": {
+        "count": "435",
+        "url": "https://car.autohome.com.cn//price/brand-13.html"
+    },
+    "别克": {
+        "count": "470",
+        "url": "https://car.autohome.com.cn//price/brand-38.html"
+    },
+    "宾利": {
+        "count": "85",
+        "url": "https://car.autohome.com.cn//price/brand-39.html"
+    },
+    "布加迪": {
+        "count": "3",
+        "url": "https://car.autohome.com.cn//price/brand-37.html"
+    },
+    "长安": {
+        "count": "554",
+        "url": "https://car.autohome.com.cn//price/brand-76.html"
+    },
+    "长安跨越": {
+        "count": "22",
+        "url": "https://car.autohome.com.cn//price/brand-299.html"
+    },
+    "长安欧尚": {
+        "count": "194",
+        "url": "https://car.autohome.com.cn//price/brand-163.html"
+    },
+    "长安轻型车": {
+        "count": "248",
+        "url": "https://car.autohome.com.cn//price/brand-294.html"
+    },
+    "长城": {
+        "count": "379",
+        "url": "https://car.autohome.com.cn//price/brand-77.html"
+    },
+    "成功汽车": {
+        "count": "32",
+        "url": "https://car.autohome.com.cn//price/brand-196.html"
+    },
+    "DS": {
+        "count": "107",
+        "url": "https://car.autohome.com.cn//price/brand-169.html"
+    },
+    "大乘汽车": {
+        "count": "4",
+        "url": "https://car.autohome.com.cn//price/brand-341.html"
+    },
+    "大发": {
+        "count": "13",
+        "url": "https://car.autohome.com.cn//price/brand-92.html"
+    },
+    "大众": {
+        "count": "1622",
+        "url": "https://car.autohome.com.cn//price/brand-1.html"
+    },
+    "道奇": {
+        "count": "25",
+        "url": "https://car.autohome.com.cn//price/brand-41.html"
+    },
+    "电咖": {
+        "count": "6",
+        "url": "https://car.autohome.com.cn//price/brand-280.html"
+    },
+    "东风": {
+        "count": "346",
+        "url": "https://car.autohome.com.cn//price/brand-32.html"
+    },
+    "东风·瑞泰特": {
+        "count": "2",
+        "url": "https://car.autohome.com.cn//price/brand-326.html"
+    },
+    "东风风度": {
+        "count": "21",
+        "url": "https://car.autohome.com.cn//price/brand-187.html"
+    },
+    "东风风光": {
+        "count": "121",
+        "url": "https://car.autohome.com.cn//price/brand-259.html"
+    },
+    "东风风神": {
+        "count": "181",
+        "url": "https://car.autohome.com.cn//price/brand-113.html"
+    },
+    "东风风行": {
+        "count": "513",
+        "url": "https://car.autohome.com.cn//price/brand-165.html"
+    },
+    "东风小康": {
+        "count": "148",
+        "url": "https://car.autohome.com.cn//price/brand-142.html"
+    },
+    "东南": {
+        "count": "263",
+        "url": "https://car.autohome.com.cn//price/brand-81.html"
+    },
+    "法拉利": {
+        "count": "25",
+        "url": "https://car.autohome.com.cn//price/brand-42.html"
+    },
+    "菲亚特": {
+        "count": "109",
+        "url": "https://car.autohome.com.cn//price/brand-11.html"
+    },
+    "丰田": {
+        "count": "853",
+        "url": "https://car.autohome.com.cn//price/brand-3.html"
+    },
+    "福迪": {
+        "count": "98",
+        "url": "https://car.autohome.com.cn//price/brand-141.html"
+    },
+    "福汽启腾": {
+        "count": "22",
+        "url": "https://car.autohome.com.cn//price/brand-197.html"
+    },
+    "福特": {
+        "count": "736",
+        "url": "https://car.autohome.com.cn//price/brand-8.html"
+    },
+    "福田": {
+        "count": "556",
+        "url": "https://car.autohome.com.cn//price/brand-96.html"
+    },
+    "福田乘用车": {
+        "count": "418",
+        "url": "https://car.autohome.com.cn//price/brand-282.html"
+    },
+    "GMC": {
+        "count": "105",
+        "url": "https://car.autohome.com.cn//price/brand-112.html"
+    },
+    "观致": {
+        "count": "96",
+        "url": "https://car.autohome.com.cn//price/brand-152.html"
+    },
+    "光冈": {
+        "count": "3",
+        "url": "https://car.autohome.com.cn//price/brand-116.html"
+    },
+    "广汽传祺": {
+        "count": "223",
+        "url": "https://car.autohome.com.cn//price/brand-82.html"
+    },
+    "广汽吉奥": {
+        "count": "162",
+        "url": "https://car.autohome.com.cn//price/brand-108.html"
+    },
+    "广汽集团": {
+        "count": "10",
+        "url": "https://car.autohome.com.cn//price/brand-329.html"
+    },
+    "广汽新能源": {
+        "count": "13",
+        "url": "https://car.autohome.com.cn//price/brand-313.html"
+    },
+    "国金汽车": {
+        "count": "7",
+        "url": "https://car.autohome.com.cn//price/brand-304.html"
+    },
+    "哈飞": {
+        "count": "75",
+        "url": "https://car.autohome.com.cn//price/brand-24.html"
+    },
+    "哈弗": {
+        "count": "613",
+        "url": "https://car.autohome.com.cn//price/brand-181.html"
+    },
+    "海格": {
+        "count": "59",
+        "url": "https://car.autohome.com.cn//price/brand-150.html"
+    },
+    "海马": {
+        "count": "421",
+        "url": "https://car.autohome.com.cn//price/brand-86.html"
+    },
+    "汉腾汽车": {
+        "count": "37",
+        "url": "https://car.autohome.com.cn//price/brand-267.html"
+    },
+    "悍马": {
+        "count": "5",
+        "url": "https://car.autohome.com.cn//price/brand-43.html"
+    },
+    "恒天": {
+        "count": "17",
+        "url": "https://car.autohome.com.cn//price/brand-164.html"
+    },
+    "红旗": {
+        "count": "36",
+        "url": "https://car.autohome.com.cn//price/brand-91.html"
+    },
+    "红星汽车": {
+        "count": "4",
+        "url": "https://car.autohome.com.cn//price/brand-336.html"
+    },
+    "华凯": {
+        "count": "16",
+        "url": "https://car.autohome.com.cn//price/brand-245.html"
+    },
+    "华普": {
+        "count": "41",
+        "url": "https://car.autohome.com.cn//price/brand-85.html"
+    },
+    "华骐": {
+        "count": "1",
+        "url": "https://car.autohome.com.cn//price/brand-184.html"
+    },
+    "华颂": {
+        "count": "7",
+        "url": "https://car.autohome.com.cn//price/brand-220.html"
+    },
+    "华泰": {
+        "count": "145",
+        "url": "https://car.autohome.com.cn//price/brand-87.html"
+    },
+    "华泰新能源": {
+        "count": "14",
+        "url": "https://car.autohome.com.cn//price/brand-260.html"
+    },
+    "黄海": {
+        "count": "215",
+        "url": "https://car.autohome.com.cn//price/brand-97.html"
+    },
+    "Icona": {
+        "count": "1",
+        "url": "https://car.autohome.com.cn//price/brand-188.html"
+    },
+    "Jeep": {
+        "count": "293",
+        "url": "https://car.autohome.com.cn//price/brand-46.html"
+    },
+    "吉利汽车": {
+        "count": "724",
+        "url": "https://car.autohome.com.cn//price/brand-25.html"
+    },
+    "江淮": {
+        "count": "821",
+        "url": "https://car.autohome.com.cn//price/brand-84.html"
+    },
+    "江铃": {
+        "count": "161",
+        "url": "https://car.autohome.com.cn//price/brand-119.html"
+    },
+    "江铃集团轻汽": {
+        "count": "271",
+        "url": "https://car.autohome.com.cn//price/brand-210.html"
+    },
+    "江铃集团新能源": {
+        "count": "17",
+        "url": "https://car.autohome.com.cn//price/brand-270.html"
+    },
+    "捷豹": {
+        "count": "217",
+        "url": "https://car.autohome.com.cn//price/brand-44.html"
+    },
+    "捷途": {
+        "count": "16",
+        "url": "https://car.autohome.com.cn//price/brand-319.html"
+    },
+    "金杯": {
+        "count": "555",
+        "url": "https://car.autohome.com.cn//price/brand-83.html"
+    },
+    "金龙": {
+        "count": "114",
+        "url": "https://car.autohome.com.cn//price/brand-145.html"
+    },
+    "金旅": {
+        "count": "14",
+        "url": "https://car.autohome.com.cn//price/brand-175.html"
+    },
+    "九龙": {
+        "count": "53",
+        "url": "https://car.autohome.com.cn//price/brand-151.html"
+    },
+    "君马汽车": {
+        "count": "43",
+        "url": "https://car.autohome.com.cn//price/brand-297.html"
+    },
+    "KTM": {
+        "count": "1",
+        "url": "https://car.autohome.com.cn//price/brand-109.html"
+    },
+    "卡尔森": {
+        "count": "5",
+        "url": "https://car.autohome.com.cn//price/brand-156.html"
+    },
+    "卡升": {
+        "count": "12",
+        "url": "https://car.autohome.com.cn//price/brand-224.html"
+    },
+    "卡威": {
+        "count": "64",
+        "url": "https://car.autohome.com.cn//price/brand-199.html"
+    },
+    "开瑞": {
+        "count": "211",
+        "url": "https://car.autohome.com.cn//price/brand-101.html"
+    },
+    "凯迪拉克": {
+        "count": "195",
+        "url": "https://car.autohome.com.cn//price/brand-47.html"
+    },
+    "凯翼": {
+        "count": "66",
+        "url": "https://car.autohome.com.cn//price/brand-214.html"
+    },
+    "科尼赛克": {
+        "count": "4",
+        "url": "https://car.autohome.com.cn//price/brand-100.html"
+    },
+    "克莱斯勒": {
+        "count": "32",
+        "url": "https://car.autohome.com.cn//price/brand-9.html"
+    },
+    "LITE": {
+        "count": "4",
+        "url": "https://car.autohome.com.cn//price/brand-335.html"
+    },
+    "LOCAL MOTORS": {
+        "count": "1",
+        "url": "https://car.autohome.com.cn//price/brand-241.html"
+    },
+    "Lorinser": {
+        "count": "15",
+        "url": "https://car.autohome.com.cn//price/brand-118.html"
+    },
+    "兰博基尼": {
+        "count": "33",
+        "url": "https://car.autohome.com.cn//price/brand-48.html"
+    },
+    "劳斯莱斯": {
+        "count": "29",
+        "url": "https://car.autohome.com.cn//price/brand-54.html"
+    },
+    "雷克萨斯": {
+        "count": "277",
+        "url": "https://car.autohome.com.cn//price/brand-52.html"
+    },
+    "雷诺": {
+        "count": "175",
+        "url": "https://car.autohome.com.cn//price/brand-10.html"
+    },
+    "理念": {
+        "count": "16",
+        "url": "https://car.autohome.com.cn//price/brand-124.html"
+    },
+    "理想智造": {
+        "count": "1",
+        "url": "https://car.autohome.com.cn//price/brand-345.html"
+    },
+    "力帆汽车": {
+        "count": "237",
+        "url": "https://car.autohome.com.cn//price/brand-80.html"
+    },
+    "莲花汽车": {
+        "count": "64",
+        "url": "https://car.autohome.com.cn//price/brand-89.html"
+    },
+    "猎豹汽车": {
+        "count": "180",
+        "url": "https://car.autohome.com.cn//price/brand-78.html"
+    },
+    "林肯": {
+        "count": "89",
+        "url": "https://car.autohome.com.cn//price/brand-51.html"
+    },
+    "铃木": {
+        "count": "448",
+        "url": "https://car.autohome.com.cn//price/brand-53.html"
+    },
+    "零跑汽车": {
+        "count": "1",
+        "url": "https://car.autohome.com.cn//price/brand-318.html"
+    },
+    "领克": {
+        "count": "24",
+        "url": "https://car.autohome.com.cn//price/brand-279.html"
+    },
+    "领途汽车": {
+        "count": "6",
+        "url": "https://car.autohome.com.cn//price/brand-343.html"
+    },
+    "陆地方舟": {
+        "count": "10",
+        "url": "https://car.autohome.com.cn//price/brand-204.html"
+    },
+    "陆风": {
+        "count": "209",
+        "url": "https://car.autohome.com.cn//price/brand-88.html"
+    },
+    "路虎": {
+        "count": "302",
+        "url": "https://car.autohome.com.cn//price/brand-49.html"
+    },
+    "路特斯": {
+        "count": "14",
+        "url": "https://car.autohome.com.cn//price/brand-50.html"
+    },
+    "罗夫哈特": {
+        "count": "2",
+        "url": "https://car.autohome.com.cn//price/brand-346.html"
+    },
+    "MINI": {
+        "count": "211",
+        "url": "https://car.autohome.com.cn//price/brand-56.html"
+    },
+    "马自达": {
+        "count": "284",
+        "url": "https://car.autohome.com.cn//price/brand-58.html"
+    },
+    "玛莎拉蒂": {
+        "count": "58",
+        "url": "https://car.autohome.com.cn//price/brand-57.html"
+    },
+    "迈巴赫": {
+        "count": "4",
+        "url": "https://car.autohome.com.cn//price/brand-55.html"
+    },
+    "迈凯伦": {
+        "count": "21",
+        "url": "https://car.autohome.com.cn//price/brand-129.html"
+    },
+    "名爵": {
+        "count": "230",
+        "url": "https://car.autohome.com.cn//price/brand-20.html"
+    },
+    "摩根": {
+        "count": "12",
+        "url": "https://car.autohome.com.cn//price/brand-168.html"
+    },
+    "NEVS国能汽车": {
+        "count": "1",
+        "url": "https://car.autohome.com.cn//price/brand-295.html"
+    },
+    "哪吒汽车": {
+        "count": "4",
+        "url": "https://car.autohome.com.cn//price/brand-334.html"
+    },
+    "纳智捷": {
+        "count": "132",
+        "url": "https://car.autohome.com.cn//price/brand-130.html"
+    },
+    "南京金龙": {
+        "count": "28",
+        "url": "https://car.autohome.com.cn//price/brand-213.html"
+    },
+    "讴歌": {
+        "count": "61",
+        "url": "https://car.autohome.com.cn//price/brand-60.html"
+    },
+    "欧宝": {
+        "count": "48",
+        "url": "https://car.autohome.com.cn//price/brand-59.html"
+    },
+    "欧拉": {
+        "count": "9",
+        "url": "https://car.autohome.com.cn//price/brand-331.html"
+    },
+    "欧朗": {
+        "count": "10",
+        "url": "https://car.autohome.com.cn//price/brand-146.html"
+    },
+    "欧尚汽车": {
+        "count": "15",
+        "url": "https://car.autohome.com.cn//price/brand-332.html"
+    },
+    "Polestar": {
+        "count": "1",
+        "url": "https://car.autohome.com.cn//price/brand-308.html"
+    },
+    "帕加尼": {
+        "count": "1",
+        "url": "https://car.autohome.com.cn//price/brand-61.html"
+    },
+    "奇瑞": {
+        "count": "706",
+        "url": "https://car.autohome.com.cn//price/brand-26.html"
+    },
+    "启辰": {
+        "count": "147",
+        "url": "https://car.autohome.com.cn//price/brand-122.html"
+    },
+    "起亚": {
+        "count": "686",
+        "url": "https://car.autohome.com.cn//price/brand-62.html"
+    },
+    "前途": {
+        "count": "1",
+        "url": "https://car.autohome.com.cn//price/brand-235.html"
+    },
+    "乔治·巴顿": {
+        "count": "3",
+        "url": "https://car.autohome.com.cn//price/brand-222.html"
+    },
+    "庆铃汽车": {
+        "count": "5",
+        "url": "https://car.autohome.com.cn//price/brand-312.html"
+    },
+    "全球鹰": {
+        "count": "14",
+        "url": "https://car.autohome.com.cn//price/brand-219.html"
+    },
+    "日产": {
+        "count": "653",
+        "url": "https://car.autohome.com.cn//price/brand-63.html"
+    },
+    "荣威": {
+        "count": "262",
+        "url": "https://car.autohome.com.cn//price/brand-19.html"
+    },
+    "容大智造": {
+        "count": "2",
+        "url": "https://car.autohome.com.cn//price/brand-337.html"
+    },
+    "如虎": {
+        "count": "2",
+        "url": "https://car.autohome.com.cn//price/brand-174.html"
+    },
+    "瑞驰新能源": {
+        "count": "4",
+        "url": "https://car.autohome.com.cn//price/brand-296.html"
+    },
+    "瑞麒": {
+        "count": "50",
+        "url": "https://car.autohome.com.cn//price/brand-103.html"
+    },
+    "smart": {
+        "count": "107",
+        "url": "https://car.autohome.com.cn//price/brand-45.html"
+    },
+    "SWM斯威汽车": {
+        "count": "56",
+        "url": "https://car.autohome.com.cn//price/brand-269.html"
+    },
+    "萨博": {
+        "count": "15",
+        "url": "https://car.autohome.com.cn//price/brand-64.html"
+    },
+    "赛麟": {
+        "count": "14",
+        "url": "https://car.autohome.com.cn//price/brand-205.html"
+    },
+    "三菱": {
+        "count": "330",
+        "url": "https://car.autohome.com.cn//price/brand-68.html"
+    },
+    "陕汽通家": {
+        "count": "26",
+        "url": "https://car.autohome.com.cn//price/brand-149.html"
+    },
+    "上汽大通": {
+        "count": "460",
+        "url": "https://car.autohome.com.cn//price/brand-155.html"
+    },
+    "世爵": {
+        "count": "1",
+        "url": "https://car.autohome.com.cn//price/brand-66.html"
+    },
+    "双环": {
+        "count": "82",
+        "url": "https://car.autohome.com.cn//price/brand-90.html"
+    },
+    "双龙": {
+        "count": "139",
+        "url": "https://car.autohome.com.cn//price/brand-69.html"
+    },
+    "思铭": {
+        "count": "5",
+        "url": "https://car.autohome.com.cn//price/brand-162.html"
+    },
+    "斯巴鲁": {
+        "count": "266",
+        "url": "https://car.autohome.com.cn//price/brand-65.html"
+    },
+    "斯达泰克": {
+        "count": "13",
+        "url": "https://car.autohome.com.cn//price/brand-238.html"
+    },
+    "斯柯达": {
+        "count": "403",
+        "url": "https://car.autohome.com.cn//price/brand-67.html"
+    },
+    "泰卡特": {
+        "count": "7",
+        "url": "https://car.autohome.com.cn//price/brand-202.html"
+    },
+    "特斯拉": {
+        "count": "38",
+        "url": "https://car.autohome.com.cn//price/brand-133.html"
+    },
+    "腾势": {
+        "count": "7",
+        "url": "https://car.autohome.com.cn//price/brand-161.html"
+    },
+    "WEY": {
+        "count": "20",
+        "url": "https://car.autohome.com.cn//price/brand-283.html"
+    },
+    "威麟": {
+        "count": "36",
+        "url": "https://car.autohome.com.cn//price/brand-102.html"
+    },
+    "威马汽车": {
+        "count": "8",
+        "url": "https://car.autohome.com.cn//price/brand-291.html"
+    },
+    "威兹曼": {
+        "count": "7",
+        "url": "https://car.autohome.com.cn//price/brand-99.html"
+    },
+    "潍柴英致": {
+        "count": "42",
+        "url": "https://car.autohome.com.cn//price/brand-192.html"
+    },
+    "蔚来": {
+        "count": "4",
+        "url": "https://car.autohome.com.cn//price/brand-284.html"
+    },
+    "沃尔沃": {
+        "count": "418",
+        "url": "https://car.autohome.com.cn//price/brand-70.html"
+    },
+    "五菱汽车": {
+        "count": "138",
+        "url": "https://car.autohome.com.cn//price/brand-114.html"
+    },
+    "五十铃": {
+        "count": "138",
+        "url": "https://car.autohome.com.cn//price/brand-167.html"
+    },
+    "西雅特": {
+        "count": "13",
+        "url": "https://car.autohome.com.cn//price/brand-98.html"
+    },
+    "现代": {
+        "count": "658",
+        "url": "https://car.autohome.com.cn//price/brand-12.html"
+    },
+    "小鹏汽车": {
+        "count": "3",
+        "url": "https://car.autohome.com.cn//price/brand-275.html"
+    },
+    "新凯": {
+        "count": "8",
+        "url": "https://car.autohome.com.cn//price/brand-185.html"
+    },
+    "新特汽车": {
+        "count": "4",
+        "url": "https://car.autohome.com.cn//price/brand-324.html"
+    },
+    "鑫源": {
+        "count": "17",
+        "url": "https://car.autohome.com.cn//price/brand-306.html"
+    },
+    "雪佛兰": {
+        "count": "436",
+        "url": "https://car.autohome.com.cn//price/brand-71.html"
+    },
+    "雪铁龙": {
+        "count": "436",
+        "url": "https://car.autohome.com.cn//price/brand-72.html"
+    },
+    "野马汽车": {
+        "count": "76",
+        "url": "https://car.autohome.com.cn//price/brand-111.html"
+    },
+    "一汽": {
+        "count": "356",
+        "url": "https://car.autohome.com.cn//price/brand-110.html"
+    },
+    "依维柯": {
+        "count": "180",
+        "url": "https://car.autohome.com.cn//price/brand-144.html"
+    },
+    "英菲尼迪": {
+        "count": "177",
+        "url": "https://car.autohome.com.cn//price/brand-73.html"
+    },
+    "永源": {
+        "count": "82",
+        "url": "https://car.autohome.com.cn//price/brand-93.html"
+    },
+    "宇通客车": {
+        "count": "11",
+        "url": "https://car.autohome.com.cn//price/brand-298.html"
+    },
+    "驭胜": {
+        "count": "87",
+        "url": "https://car.autohome.com.cn//price/brand-263.html"
+    },
+    "御捷": {
+        "count": "1",
+        "url": "https://car.autohome.com.cn//price/brand-232.html"
+    },
+    "裕路": {
+        "count": "2",
+        "url": "https://car.autohome.com.cn//price/brand-307.html"
+    },
+    "云度": {
+        "count": "15",
+        "url": "https://car.autohome.com.cn//price/brand-286.html"
+    },
+    "云雀汽车": {
+        "count": "4",
+        "url": "https://car.autohome.com.cn//price/brand-317.html"
+    },
+    "之诺": {
+        "count": "2",
+        "url": "https://car.autohome.com.cn//price/brand-182.html"
+    },
+    "知豆": {
+        "count": "14",
+        "url": "https://car.autohome.com.cn//price/brand-206.html"
+    },
+    "中华": {
+        "count": "287",
+        "url": "https://car.autohome.com.cn//price/brand-22.html"
+    },
+    "中兴": {
+        "count": "195",
+        "url": "https://car.autohome.com.cn//price/brand-74.html"
+    },
+    "众泰": {
+        "count": "432",
+        "url": "https://car.autohome.com.cn//price/brand-94.html"
+    }
+}
