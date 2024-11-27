@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Knowledge Graph</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        #tree-container {
+            width: 80%;
+            margin: 20px auto;
+            padding: 15px;
+            background-color: #f9f9f9;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            overflow-x: auto;
+            white-space: pre;
+            font-family: monospace;
+            display: none;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            margin: 10px;
+            cursor: pointer;
+            border: none;
+            border-radius: 5px;
+            background-color: #007BFF;
+            color: #fff;
+            transition: background-color 0.3s;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        #search-container {
+            margin-top: 20px;
+        }
+        #search-input {
+            padding: 10px;
+            font-size: 16px;
+            width: 300px;
+        }
+    </style>
+</head>
+<body>
+<h1>Car Knowledge Graph</h1>
+<button id="show-full-tree">显示整个知识图</button>
+<div id="search-container">
+    <input id="search-input" type="text" placeholder="输入品牌名称进行搜索">
+    <button id="search-button">查找品牌</button>
+</div>
+<div id="tree-container"></div>
+
+<script>
+    document.getElementById("show-full-tree").addEventListener("click", function() {
+        fetch("/full_tree")
+            .then(response => response.json())
+            .then(data => {
+                const container = document.getElementById("tree-container");
+                if (data.status === "success") {
+                    container.textContent = data.data; // 填充树形数据
+                    container.style.display = "block"; // 显示容器
+                } else {
+                    container.textContent = "获取知识图失败：" + data.message;
+                    container.style.display = "block";
+                }
+            })
+            .catch(error => {
+                const container = document.getElementById("tree-container");
+                container.textContent = "发生错误：" + error.message;
+                container.style.display = "block";
+            });
+    });
+
+    document.getElementById("search-button").addEventListener("click", function() {
+        const brandName = document.getElementById("search-input").value.trim();
+        if (brandName === "") {
+            alert("请输入品牌名称！");
+            return;
+        }
+        fetch(`/search_brand?brand_name=${encodeURIComponent(brandName)}`)
+            .then(response => response.json())
+            .then(data => {
+                const container = document.getElementById("tree-container");
+                if (data.status === "success") {
+                    container.textContent = data.data; // 显示查找到的品牌
+                    container.style.display = "block";
+                } else {
+                    container.textContent = "未找到品牌：" + data.message;
+                    container.style.display = "block";
+                }
+            })
+            .catch(error => {
+                const container = document.getElementById("tree-container");
+                container.textContent = "发生错误：" + error.message;
+                container.style.display = "block";
+            });
+    });
+</script>
+</body>
+</html>
