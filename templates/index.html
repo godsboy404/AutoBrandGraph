@@ -89,64 +89,44 @@
 <h1>Car Knowledge Graph</h1>
 <button id="show-full-tree">显示整个知识图</button>
 <div id="search-container">
-    <input id="search-input" type="text" placeholder="输入品牌名称进行搜索">
-    <button id="search-button">查找品牌</button>
+    <input id="search-input" type="text" placeholder="输入品牌或车型名称进行搜索">
+    <button id="search-button">查找</button>
 </div>
 <div id="search-results"></div>
 <div id="tree-container"></div>
 
 <script>
-    // 显示整个知识图
-    document.getElementById("show-full-tree").addEventListener("click", function () {
-        fetch("/full_tree")
-            .then(response => response.json())
-            .then(data => {
-                const container = document.getElementById("tree-container");
-                if (data.status === "success") {
-                    container.textContent = data.data; // 填充树形数据
-                    container.style.display = "block"; // 显示容器
-                } else {
-                    container.textContent = "获取知识图失败：" + data.message;
-                    container.style.display = "block";
-                }
-            })
-            .catch(error => {
-                const container = document.getElementById("tree-container");
-                container.textContent = "发生错误：" + error.message;
-                container.style.display = "block";
-            });
-    });
-
-    // 搜索品牌
     document.getElementById("search-button").addEventListener("click", function () {
-        const brandName = document.getElementById("search-input").value.trim();
-        if (brandName === "") {
-            alert("请输入品牌名称！");
+        const searchTerm = document.getElementById("search-input").value.trim();
+        if (searchTerm === "") {
+            alert("请输入品牌或车型名称！");
             return;
         }
 
-        fetch(`/search_brand?brand_name=${encodeURIComponent(brandName)}`)
+        fetch(`/search_brand?brand_name=${encodeURIComponent(searchTerm)}`)
             .then(response => response.json())
             .then(data => {
                 const container = document.getElementById("search-results");
                 container.innerHTML = ""; // 清空之前的结果
 
                 if (data.status === "success") {
-                    // 根据返回的数据类型显示不同的信息
                     data.data.forEach(item => {
                         const div = document.createElement("div");
 
                         if (item.type === "brand") {
                             div.classList.add("brand-item");
                             div.innerHTML = `
-                            <h3>${item.name}</h3>
-                            <p>品牌页面：<a href="${item.url}" target="_blank">${item.url}</a></p>
-                            <p>车型：</p>
-                            <ul>${item.models.map(model => `<li>${model}</li>`).join("")}</ul>
-                        `;
+                                <h3>${item.name}</h3>
+                                <p>品牌页面：<a href="${item.url}" target="_blank">${item.url}</a></p>
+                                <p>车型：</p>
+                                <ul>${item.models.map(model => `<li>${model}</li>`).join("")}</ul>
+                            `;
                         } else if (item.type === "model") {
                             div.classList.add("model-item");
-                            div.textContent = `车型：${item.name}`;
+                            div.innerHTML = `
+                                <p>车型：${item.name}</p>
+                                <p>母品牌页面：<a href="${item.brand_url}" target="_blank">${item.brand_url}</a></p>
+                            `;
                         }
 
                         container.appendChild(div);
