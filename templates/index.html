@@ -96,24 +96,6 @@
 <div id="tree-container"></div>
 
 <script>
-    document.getElementById("show-full-tree").addEventListener("click", function () {
-        fetch('/full_tree')
-            .then(response => response.json())
-            .then(data => {
-                const container = document.getElementById("tree-container");
-                if (data.status === "success") {
-                    container.style.display = "block";
-                    container.textContent = "汽车品牌知识图谱：\n" + data.data;
-                } else {
-                    container.textContent = "无法加载知识图谱。";
-                }
-            })
-            .catch(error => {
-                const container = document.getElementById("tree-container");
-                container.textContent = "发生错误：" + error.message;
-            });
-    });
-
     document.getElementById("search-button").addEventListener("click", function () {
         const searchTerm = document.getElementById("search-input").value.trim();
         if (searchTerm === "") {
@@ -125,7 +107,7 @@
             .then(response => response.json())
             .then(data => {
                 const container = document.getElementById("search-results");
-                container.innerHTML = "";
+                container.innerHTML = ""; // 清空之前的结果
 
                 if (data.status === "success") {
                     data.data.forEach(item => {
